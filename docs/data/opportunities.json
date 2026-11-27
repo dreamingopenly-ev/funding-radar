@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T08:37:14+00:00",
+ "generated_at": "2026-11-27T08:38:28+00:00",
  "sources": {
   "curated": "ok (4)",
-  "eu_portal": "ok (81)",
+  "eu_portal": "ok (79)",
   "rss": "ok (23)"
  },
- "count": 108,
+ "count": 106,
  "items": [
   {
    "id": "eu-CREA-MEDIA-2027-DEVSLATE",
@@ -544,7 +544,6 @@
    ],
    "audiences": [
     "culture",
-    "migrants",
     "youth"
    ],
    "language": "en",
@@ -575,28 +574,6 @@
    "opens": "2026-11-26",
    "rolling": false,
    "summary": "Expected Outcome: Networks of schools and Vocational education and training institutions (VETs), ISCED 1 – 4, and/or higher education Institutions providing Teacher Training /Education should serve the purpose of giving an international aspect to the new Jean Monnet strand and…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
-   "title": "Jean Monnet Networks on internal policy: Strategic autonomy of the European political area – digital and economic independence",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "youth"
-   ],
-   "language": "en",
-   "programme": "Erasmus+ · ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
-   "deadline": "2027-02-03",
-   "opens": "2026-11-26",
-   "rolling": false,
-   "summary": "Scope: Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners…",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -1045,7 +1022,6 @@
     "EU"
    ],
    "audiences": [
-    "migrants",
     "youth"
    ],
    "language": "en",
@@ -1351,30 +1327,6 @@
    "last_seen": "2026-11-27"
   },
   {
-   "id": "eu-CREA-MEDIA-2027-CODEV",
-   "title": "European co-development",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-CODEV",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "culture",
-    "inclusion",
-    "sustainability"
-   ],
-   "language": "en",
-   "programme": "Creative Europe · CREA-MEDIA-2027-CODEV",
-   "deadline": "2027-03-02",
-   "opens": "2026-09-30",
-   "rolling": false,
-   "summary": "Scope: The objective of the support to European co-development is to support the cooperation among European production companies that are developing works with a strong international audience potential. Expected results Increased collaboration at development stage between…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
    "id": "eu-JUST-2027-JTRA",
    "title": "Call for proposals for action grants to support transnational projects on judicial training covering civil law, criminal law or fundamental rights",
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JUST-2027-JTRA",
@@ -1483,7 +1435,6 @@
    "audiences": [
     "democracy",
     "inclusion",
-    "migrants",
     "sustainability",
     "youth"
    ],
@@ -1884,7 +1835,6 @@
     "culture",
     "democracy",
     "inclusion",
-    "migrants",
     "sustainability",
     "volunteering",
     "youth"
