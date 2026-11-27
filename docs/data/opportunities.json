@@ -1,12 +1,13 @@
 {
- "generated_at": "2026-11-27T09:25:44+00:00",
+ "generated_at": "2026-11-27T09:34:13+00:00",
  "sources": {
   "curated": "ok (4)",
-  "eu_portal": "ok (61)",
+  "foundations": "ok (0)",
+  "eu_portal": "ok (60)",
   "foerderdatenbank": "skipped: weekly source, not a download day",
   "rss": "ok (23)"
  },
- "count": 933,
+ "count": 932,
  "items": [
   {
    "id": "eu-CREA-MEDIA-2027-DEVSLATE",
@@ -1175,31 +1176,6 @@
    "opens": "2026-12-02",
    "rolling": false,
    "summary": "Scope: European Youth Together European Youth Together is an Action implemented under the Key Action 3 - Support to Policy Development and Cooperation of the Erasmus+ Programme. Key Action 3 provides support to policy cooperation at European Union level, thereby contributing to…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-CREA-MEDIA-2027-CODEV",
-   "title": "European co-development",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-CODEV",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "culture",
-    "inclusion",
-    "sustainability"
-   ],
-   "regions": [],
-   "language": "en",
-   "programme": "Creative Europe · CREA-MEDIA-2027-CODEV",
-   "deadline": "2027-03-02",
-   "opens": "2026-09-30",
-   "rolling": false,
-   "summary": "Scope: The objective of the support to European co-development is to support the cooperation among European production companies that are developing works with a strong international audience potential. Expected results Increased collaboration at development stage between…",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
