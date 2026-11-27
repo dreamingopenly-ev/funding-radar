@@ -1,6 +1,7 @@
 // Interface translations. Opportunity titles stay in their original language.
 window.I18N = {
   en: {
+    more_db: "More databases",
     _name: "English",
     title: "Funding Radar", tagline: "Grants, subsidies and contests for NGOs, youth organisations and migrant-led collectives — updated automatically every day.",
     v_all: "All", v_de: "Germany", v_eu: "EU-wide", v_mig: "Migrant-focused", v_nat: "Other EU countries",
@@ -18,6 +19,7 @@ window.I18N = {
     a_sustainability: "Sustainability", a_inclusion: "Inclusion", a_volunteering: "Volunteering", "a_civil-society": "Civil society",
   },
   es: {
+    more_db: "Más bases de datos",
     _name: "Español",
     title: "Funding Radar", tagline: "Subvenciones, ayudas y concursos para ONG, organizaciones juveniles y colectivos migrantes — actualizado automáticamente cada día.",
     v_all: "Todo", v_de: "Alemania", v_eu: "Toda la UE", v_mig: "Para migrantes", v_nat: "Otros países de la UE",
@@ -35,6 +37,7 @@ window.I18N = {
     a_sustainability: "Sostenibilidad", a_inclusion: "Inclusión", a_volunteering: "Voluntariado", "a_civil-society": "Sociedad civil",
   },
   pt: {
+    more_db: "Mais bases de dados",
     _name: "Português",
     title: "Funding Radar", tagline: "Subsídios, apoios e concursos para ONG, organizações de juventude e coletivos migrantes — atualizado automaticamente todos os dias.",
     v_all: "Tudo", v_de: "Alemanha", v_eu: "Toda a UE", v_mig: "Para migrantes", v_nat: "Outros países da UE",
@@ -52,6 +55,7 @@ window.I18N = {
     a_sustainability: "Sustentabilidade", a_inclusion: "Inclusão", a_volunteering: "Voluntariado", "a_civil-society": "Sociedade civil",
   },
   de: {
+    more_db: "Weitere Datenbanken",
     _name: "Deutsch",
     title: "Funding Radar", tagline: "Fördermittel, Zuschüsse und Wettbewerbe für Vereine, Jugendorganisationen und migrantische Selbstorganisationen — täglich automatisch aktualisiert.",
     v_all: "Alle", v_de: "Deutschland", v_eu: "EU-weit", v_mig: "Für Migrant*innen", v_nat: "Andere EU-Länder",
@@ -69,6 +73,7 @@ window.I18N = {
     a_sustainability: "Nachhaltigkeit", a_inclusion: "Inklusion", a_volunteering: "Ehrenamt", "a_civil-society": "Zivilgesellschaft",
   },
   fr: {
+    more_db: "Autres bases de données",
     _name: "Français",
     title: "Funding Radar", tagline: "Subventions, aides et concours pour les ONG, les organisations de jeunesse et les collectifs migrants — mis à jour automatiquement chaque jour.",
     v_all: "Tout", v_de: "Allemagne", v_eu: "Toute l'UE", v_mig: "Pour les migrant·es", v_nat: "Autres pays de l'UE",
@@ -86,6 +91,7 @@ window.I18N = {
     a_sustainability: "Durabilité", a_inclusion: "Inclusion", a_volunteering: "Bénévolat", "a_civil-society": "Société civile",
   },
   it: {
+    more_db: "Altre banche dati",
     _name: "Italiano",
     title: "Funding Radar", tagline: "Bandi, contributi e concorsi per ONG, organizzazioni giovanili e collettivi migranti — aggiornato automaticamente ogni giorno.",
     v_all: "Tutto", v_de: "Germania", v_eu: "Tutta l'UE", v_mig: "Per migranti", v_nat: "Altri paesi UE",
