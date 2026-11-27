@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T08:35:41+00:00",
+ "generated_at": "2026-11-27T08:37:14+00:00",
  "sources": {
   "curated": "ok (4)",
-  "eu_portal": "ok (84)",
+  "eu_portal": "ok (81)",
   "rss": "ok (23)"
  },
- "count": 111,
+ "count": 108,
  "items": [
   {
    "id": "eu-CREA-MEDIA-2027-DEVSLATE",
@@ -272,7 +272,6 @@
    ],
    "audiences": [
     "culture",
-    "migrants",
     "youth"
    ],
    "language": "en",
@@ -576,6 +575,28 @@
    "opens": "2026-11-26",
    "rolling": false,
    "summary": "Expected Outcome: Networks of schools and Vocational education and training institutions (VETs), ISCED 1 – 4, and/or higher education Institutions providing Teacher Training /Education should serve the purpose of giving an international aspect to the new Jean Monnet strand and…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
+   "title": "Jean Monnet Networks on internal policy: Strategic autonomy of the European political area – digital and economic independence",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners…",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -1001,7 +1022,6 @@
     "EU"
    ],
    "audiences": [
-    "migrants",
     "sustainability",
     "youth"
    ],
@@ -1108,55 +1128,6 @@
    "last_seen": "2026-11-27"
   },
   {
-   "id": "eu-CERV-2026-CITIZENS-REM-HISTMIGRATION",
-   "title": "Fostering remembrance of the legacy of colonialism, slavery, and migration, and their impact on contemporary multicultural European societies.",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-REM-HISTMIGRATION",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "culture",
-    "democracy",
-    "inclusion",
-    "migrants",
-    "youth"
-   ],
-   "language": "en",
-   "programme": "Citizens, Equality, Rights and Values · CERV-2026-CITIZENS-REM-HISTMIGRATION",
-   "deadline": "2027-02-24",
-   "opens": "2026-10-21",
-   "rolling": false,
-   "summary": "Objective: 4. CERV-2026-CITIZENS-REM-HISTMIGRATION - Fostering remembrance of the legacy of colonialism, slavery, and migration, and their impact on contemporary multicultural European societies. Migration, de-colonisation, enslavement, and imperialism have left a mark on global…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-CERV-2026-CITIZENS-REM-TRANSITION",
-   "title": "Remembering democratic transitions, the (re-)building of democratic institutions, and strengthening society based on the rule of law, democracy, and fundamental rights.",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-REM-TRANSITION",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "democracy",
-    "inclusion"
-   ],
-   "language": "en",
-   "programme": "Citizens, Equality, Rights and Values · CERV-2026-CITIZENS-REM-TRANSITION",
-   "deadline": "2027-02-24",
-   "opens": "2026-10-21",
-   "rolling": false,
-   "summary": "Objective: 1. CERV-2026-CITIZENS-REM-TRANSITION - Remembering democratic transitions, the (re-)building of democratic institutions, and strengthening society based on the rule of law, democracy, and fundamental rights. The EU is a community of values, and all its Member States…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
    "id": "eu-CERV-2026-CITIZENS-REM-GENCRIME-2",
    "title": "Strengthening the remembrance of LGBTIQ+ victims and other victims",
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-REM-GENCRIME-2",
@@ -1195,7 +1166,6 @@
     "culture",
     "democracy",
     "inclusion",
-    "migrants",
     "sustainability",
     "youth"
    ],
@@ -1205,31 +1175,6 @@
    "opens": "2026-10-21",
    "rolling": false,
    "summary": "Objective: 3. Strengthening the remembrance of the Holocaust, acts of genocide, war crimes and crimes against humanity to strengthen democracy in the EU. Projects under this topic should focus on the non-Jewish victims of the Holocaust as well as other genocides, war crimes and…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-CERV-2026-CITIZENS-REM-HOLOCAUSTJEW",
-   "title": "Strengthening the remembrance of the Holocaust against Jewish people.",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-REM-HOLOCAUSTJEW",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "culture",
-    "democracy",
-    "inclusion",
-    "migrants"
-   ],
-   "language": "en",
-   "programme": "Citizens, Equality, Rights and Values · CERV-2026-CITIZENS-REM-HOLOCAUSTJEW",
-   "deadline": "2027-02-24",
-   "opens": "2026-10-21",
-   "rolling": false,
-   "summary": "Objective: 2. CERV-2026-CITIZENS-REM-HOLOCAUSTJEW - Strengthening the remembrance of the Holocaust against Jewish people. The Shoah is a defining legacy for the EU. Six million Jewish children, women and men were murdered, and all others were persecuted. While other groups were…",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -1746,7 +1691,6 @@
    ],
    "audiences": [
     "inclusion",
-    "latam",
     "sustainability",
     "youth"
    ],
@@ -1796,7 +1740,6 @@
    ],
    "audiences": [
     "inclusion",
-    "latam",
     "sustainability",
     "youth"
    ],
@@ -1821,7 +1764,6 @@
    ],
    "audiences": [
     "inclusion",
-    "latam",
     "sustainability",
     "youth"
    ],
@@ -1846,7 +1788,6 @@
    ],
    "audiences": [
     "inclusion",
-    "latam",
     "sustainability",
     "youth"
    ],
@@ -1871,7 +1812,6 @@
    ],
    "audiences": [
     "inclusion",
-    "latam",
     "sustainability",
     "youth"
    ],
@@ -1904,31 +1844,6 @@
    "opens": "2027-04-29",
    "rolling": false,
    "summary": "Objective: Expected results: -Improvement in the trans-national distribution of recent non-national European films. -Increase in the investment in the production, acquisition, promotion, theatrical and online distribution of non-national European films. -Develop links between…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-ERASMUS-EDU-2027-PEX-COVE-TOP1",
-   "title": "Centres of Vocational Excellence",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP1",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "democracy",
-    "inclusion",
-    "sustainability",
-    "youth"
-   ],
-   "language": "en",
-   "programme": "Erasmus+ · ERASMUS-EDU-2027-PEX-COVE-TOP1",
-   "deadline": "2027-09-16",
-   "opens": "2027-06-08",
-   "rolling": false,
-   "summary": "Scope: The initiative on Centres of Vocational Excellence (CoVE) aims to be a driving force for reforms at VET system level, ensuring high quality skills and competences that lead to quality employment and career-long opportunities, meeting the needs of an innovative, inclusive…",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -2341,7 +2256,6 @@
     "culture",
     "democracy",
     "inclusion",
-    "migrants",
     "sustainability",
     "volunteering",
     "youth"
