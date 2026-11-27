@@ -1,0 +1,106 @@
+{
+ "generated_at": "2026-11-27T08:30:14+00:00",
+ "sources": {
+  "curated": "ok (4)",
+  "eu_portal": "failed: ProxyError",
+  "rss": "failed: RuntimeError"
+ },
+ "count": 4,
+ "items": [
+  {
+   "id": "curated-aktion-mensch",
+   "title": "Aktion Mensch – Förderung",
+   "url": "https://www.aktion-mensch.de/foerderung",
+   "source": "curated",
+   "source_name": "Curated by the network",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "civil-society",
+    "inclusion",
+    "youth"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": null,
+   "rolling": true,
+   "summary": "Funding for inclusion and social projects run by non-profits in Germany.",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "curated-demokratie-leben",
+   "title": "Demokratie leben!",
+   "url": "https://www.demokratie-leben.de/",
+   "source": "curated",
+   "source_name": "Curated by the network",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "democracy",
+    "migrants",
+    "youth"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": null,
+   "rolling": false,
+   "summary": "Federal programme funding democracy, anti-discrimination and prevention projects, including local partnerships.",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "curated-dfbf",
+   "title": "Deutsch-Französischer Bürgerfonds",
+   "url": "https://www.buergerfonds.eu/",
+   "source": "curated",
+   "source_name": "Curated by the network",
+   "type": "grant",
+   "scope": [
+    "DE",
+    "FR"
+   ],
+   "audiences": [
+    "civil-society",
+    "youth"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": null,
+   "rolling": true,
+   "summary": "Small grants for Franco-German citizen encounters and civil-society projects.",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "curated-dsee",
+   "title": "Deutsche Stiftung für Engagement und Ehrenamt (DSEE) – Förderprogramme",
+   "url": "https://www.deutsche-stiftung-engagement-und-ehrenamt.de/",
+   "source": "curated",
+   "source_name": "Curated by the network",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "civil-society",
+    "volunteering"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": null,
+   "rolling": false,
+   "summary": "Federal foundation with recurring programmes for volunteering, digitalisation and structural support.",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  }
+ ]
+}

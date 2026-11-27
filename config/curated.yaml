@@ -1,0 +1,42 @@
+# Programmes added by hand: rolling / recurring funds that don't publish machine-readable calls.
+# Keep descriptions short and in your own words. Leave deadline empty for rolling programmes.
+
+- id: curated-dfbf
+  title: Deutsch-Französischer Bürgerfonds
+  url: https://www.buergerfonds.eu/
+  type: grant
+  scope: [DE, FR]
+  audiences: [civil-society, youth]
+  language: de
+  rolling: true
+  summary: Small grants for Franco-German citizen encounters and civil-society projects.
+
+- id: curated-aktion-mensch
+  title: Aktion Mensch – Förderung
+  url: https://www.aktion-mensch.de/foerderung
+  type: grant
+  scope: [DE]
+  audiences: [inclusion, youth, civil-society]
+  language: de
+  rolling: true
+  summary: Funding for inclusion and social projects run by non-profits in Germany.
+
+- id: curated-dsee
+  title: Deutsche Stiftung für Engagement und Ehrenamt (DSEE) – Förderprogramme
+  url: https://www.deutsche-stiftung-engagement-und-ehrenamt.de/
+  type: grant
+  scope: [DE]
+  audiences: [civil-society, volunteering]
+  language: de
+  rolling: false
+  summary: Federal foundation with recurring programmes for volunteering, digitalisation and structural support.
+
+- id: curated-demokratie-leben
+  title: Demokratie leben!
+  url: https://www.demokratie-leben.de/
+  type: grant
+  scope: [DE]
+  audiences: [democracy, youth, migrants]
+  language: de
+  rolling: false
+  summary: Federal programme funding democracy, anti-discrimination and prevention projects, including local partnerships.

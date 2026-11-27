@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Funding Radar</title>
+<meta name="description" content="Funding opportunities for NGOs, youth organisations and migrant-led collectives in Germany and Europe.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-row">
+    <div>
+      <h1 data-i18n="title">Funding Radar</h1>
+      <p class="tagline" data-i18n="tagline"></p>
+    </div>
+    <select id="lang" aria-label="Language"></select>
+  </div>
+  <nav class="wrap views" id="views" role="tablist"></nav>
+</header>
+
+<main class="wrap">
+  <section class="filters">
+    <input id="q" type="search" data-i18n-ph="search" aria-label="Search">
+    <select id="f-type" aria-label="Type"></select>
+    <select id="f-theme" aria-label="Theme"></select>
+    <select id="f-deadline" aria-label="Deadline"></select>
+    <select id="f-sort" aria-label="Sort"></select>
+    <label class="chk"><input type="checkbox" id="f-new"> <span data-i18n="only_new"></span></label>
+  </section>
+  <p class="count" id="count"></p>
+  <ul class="list" id="list"></ul>
+</main>
+
+<footer class="wrap foot">
+  <p data-i18n="about"></p>
+  <p><span data-i18n="updated"></span>: <span id="updated">–</span> · <a id="suggest" href="#" data-i18n="suggest"></a></p>
+</footer>
+
+<script src="config.js"></script>
+<script src="i18n.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

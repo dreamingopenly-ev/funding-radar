@@ -1,0 +1,10 @@
+{"totalResults": 4, "results": [
+ {"url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/erasmus-youth-2027-test.json", "summary": "Youth participation activities",
+  "metadata": {"identifier": ["ERASMUS-YOUTH-2027-PART-TEST"], "title": ["Youth participation activities"], "type": ["1"], "status": ["31094502"],
+   "deadlineDate": ["2027-02-12T11:00:00.000+0000"], "startDate": ["2026-11-20T00:00:00.000+0000"],
+   "descriptionByte": ["<p>Projects led by young people and youth organisations to foster civic participation.</p>"]}},
+ {"url": "x", "metadata": {"identifier": ["AMIF-2027-TF2-AG-INTE-TEST"], "title": ["Integration of third-country nationals via local communities"], "type": ["1"], "status": ["31094501"],
+   "deadlineDate": ["2027-04-01T15:00:00.000+0000"], "descriptionByte": ["Supports migrant-led organisations and refugee inclusion."]}},
+ {"url": "x", "metadata": {"identifier": ["HORIZON-CL5-2027-TEST"], "title": ["Battery chemistry research"], "type": ["1"], "status": ["31094502"], "deadlineDate": ["2027-03-01"]}},
+ {"url": "x", "metadata": {"identifier": ["CERV-2026-OLD"], "title": ["Expired citizens call"], "type": ["1"], "status": ["31094502"], "deadlineDate": ["2026-10-01"]}}
+]}

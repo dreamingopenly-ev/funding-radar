@@ -1,0 +1,34 @@
+name: Refresh opportunities
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # every day at 04:17 UTC
+  workflow_dispatch: {}      # "Run workflow" button for manual refresh
+  push:
+    paths: ["config/**", "crawler/**"]   # re-run when sources or removals change
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python crawler/run.py
+      - name: Commit updated data
+        run: |
+          git config user.name "funding-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data/opportunities.json
+          git diff --cached --quiet || git commit -m "Refresh opportunities $(date -u +%F)"
+          git push

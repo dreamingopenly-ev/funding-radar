@@ -1,0 +1,34 @@
+# Sources the crawler reads. Add or disable sources here; no code changes needed.
+
+eu_portal:
+  enabled: true
+  # Topic identifier prefixes worth keeping (NGO / youth / civil society / culture / migration / sustainability)
+  programme_prefixes:
+    ERASMUS: "Erasmus+"
+    ESC: "European Solidarity Corps"
+    CERV: "Citizens, Equality, Rights and Values"
+    CREA: "Creative Europe"
+    AMIF: "Asylum, Migration and Integration Fund"
+    ESF: "ESF+"
+    SOCPL: "ESF+ Social Prerogatives"
+    LIFE: "LIFE (environment & climate)"
+    JUST: "Justice programme"
+    EUAF: "EU Anti-Fraud"
+  # Cascade calls (re-granted by EU projects) are kept only if they mention one of these words
+  cascade_keywords: [youth, NGO, civil society, non-profit, migrant, refugee, culture, artist, community, social]
+
+rss:
+  # Feeds about funding for non-profits. "scope" = where the money is for.
+  - name: Fördermittel-Blog
+    url: https://blog-foerdermittel.de/feed/
+    scope: [DE]
+    language: de
+  - name: Fördermittel wissenswert
+    url: https://foerdermittel-wissenswert.de/feed/
+    scope: [DE]
+    language: de
+  # Add national feeds of other EU countries here, e.g. Spain, Portugal, France, Italy:
+  # - name: Example ES
+  #   url: https://example.es/feed/
+  #   scope: [ES]
+  #   language: es
