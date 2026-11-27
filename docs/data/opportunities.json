@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T08:32:39+00:00",
+ "generated_at": "2026-11-27T08:33:55+00:00",
  "sources": {
   "curated": "ok (4)",
-  "eu_portal": "ok (89)",
+  "eu_portal": "ok (83)",
   "rss": "ok (23)"
  },
- "count": 116,
+ "count": 110,
  "items": [
   {
    "id": "eu-CREA-MEDIA-2027-DEVSLATE",
@@ -32,29 +32,6 @@
    "last_seen": "2026-11-27"
   },
   {
-   "id": "eu-HORIZON-CL6-2023-GOVERNANCE-01-13",
-   "title": "Open source solutions for edge, cloud and mixed model applications to strengthen production and administrative capacities in agriculture",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45657640",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "culture",
-    "sustainability"
-   ],
-   "language": "en",
-   "programme": "EU cascade funding · HORIZON-CL6-2023-GOVERNANCE-01-13",
-   "deadline": "2026-12-02",
-   "opens": "2026-09-29",
-   "rolling": false,
-   "summary": "NOSTRADAMUS - Open Call #1: Funding Digital Applications for Sustainable and Efficient Agriculture",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
    "id": "eu-CREA-CULT-2025-COOP-UA-1",
    "title": "Supporting Ukrainian artists and cultural organisations to co-create/showcase",
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/47365856",
@@ -73,48 +50,6 @@
    "opens": "2026-10-05",
    "rolling": false,
    "summary": "ZMINA:Resilience. Second call for co-creation funding of international cooperation projects",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-HORIZON-MISS-2024-OCEAN-02-01",
-   "title": "Community-led actions to restore our ocean, seas and waters",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/46939903",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [],
-   "language": "en",
-   "programme": "EU cascade funding · HORIZON-MISS-2024-OCEAN-02-01",
-   "deadline": "2026-12-11",
-   "opens": "2026-10-09",
-   "rolling": false,
-   "summary": "SoS2LearnDBS 1st Open Call for Transition Agendas (OC-TAg1-SoS2LearnDBS-2026)",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-DIGITAL-2022-SKILLS-03-SPECIALISED-EDU",
-   "title": "Specialised education programmes or modules in key capacity areas",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45114064",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "democracy"
-   ],
-   "language": "en",
-   "programme": "EU cascade funding · DIGITAL-2022-SKILLS-03-SPECIALISED-EDU",
-   "deadline": "2026-12-14",
-   "opens": "2026-10-12",
-   "rolling": false,
-   "summary": "European Joint Master’s Programme in Digital Society, Social Innovation and Global Citizenship (DIGISOC) DIGISOC Scholarship Programme Academic Year 2026/2027 UPOL Call for Application",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -159,28 +94,6 @@
    "opens": "2026-10-26",
    "rolling": false,
    "summary": "Cultural Horizons: Artistic Mobility",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-HORIZON-JU-CBE-2024-CSA-01",
-   "title": "New forms of cooperation in agriculture and the forest-based sector",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/46908840",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "culture"
-   ],
-   "language": "en",
-   "programme": "EU cascade funding · HORIZON-JU-CBE-2024-CSA-01",
-   "deadline": "2026-12-31",
-   "opens": "2026-11-01",
-   "rolling": false,
-   "summary": "BIOECONOMY GIANTS Open Call for Scaling-up & Piloting (OC2)",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -298,28 +211,6 @@
    "opens": "2026-09-30",
    "rolling": false,
    "summary": "Objective: The Films on the Move action shall encourage and support the wider distribution of recent non-national European films by encouraging sales agents and theatrical distributors in particular to invest in promotion and adequate distribution of non- national European…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-HORIZON-CL6-2024-GOVERNANCE-01-7",
-   "title": "Enhancing working conditions and strengthening the work force through digital and data technologies – the potential of robotics and augmented reality in agriculture",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45658229",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "culture"
-   ],
-   "language": "en",
-   "programme": "EU cascade funding · HORIZON-CL6-2024-GOVERNANCE-01-7",
-   "deadline": "2027-01-25",
-   "opens": "2026-11-18",
-   "rolling": false,
-   "summary": "AGROBOOST Open Call 1 (AGROBOOST-OC1)",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -1633,6 +1524,32 @@
    "last_seen": "2026-11-27"
   },
   {
+   "id": "eu-ERASMUS-SPORT-2027-CB",
+   "title": "ERASMUS-SPORT-2027-CB - Capacity Building in the Field of Sport",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2027-CB",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-SPORT-2027-CB",
+   "deadline": "2027-03-09",
+   "opens": "2026-12-17",
+   "rolling": false,
+   "summary": "Expected Impact: The granted projects should demonstrate their expected impact by: increasing participation and capacity of grassroots sport organisations; increasing participation of women in sport and physical activities; improving the social involvement of disadvantaged…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
    "id": "eu-ERASMUS-YOUTH-2027-PCOOP-ENGO",
    "title": "Partnerships for Cooperation - Cooperation Partnerships in the field of Youth submitted by European NGOs 2027",
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2027-PCOOP-ENGO",
@@ -1699,28 +1616,6 @@
    "opens": "2026-12-17",
    "rolling": false,
    "summary": "Scope: Small-scale Partnerships are designed to widen access to the programme to small-scale actors and individuals who are hard to reach in the fields of school education, adult education, vocational education and training, youth and sport. With lower grant amounts awarded to…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-HORIZON-EIT-2025-KIC-IBA-CC",
-   "title": "EITCULTURE Business Plan 2026",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/48939704",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "culture"
-   ],
-   "language": "en",
-   "programme": "EU cascade funding · HORIZON-EIT-2025-KIC-IBA-CC",
-   "deadline": "2027-03-15",
-   "opens": "2026-09-25",
-   "rolling": false,
-   "summary": "Open call for proposals Innovation projects",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -2011,31 +1906,6 @@
    "last_seen": "2026-11-27"
   },
   {
-   "id": "eu-ERASMUS-EDU-2027-PEX-COVE-TOP1",
-   "title": "Centres of Vocational Excellence",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP1",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "democracy",
-    "inclusion",
-    "sustainability",
-    "youth"
-   ],
-   "language": "en",
-   "programme": "Erasmus+ · ERASMUS-EDU-2027-PEX-COVE-TOP1",
-   "deadline": "2027-09-16",
-   "opens": "2027-06-08",
-   "rolling": false,
-   "summary": "Scope: The initiative on Centres of Vocational Excellence (CoVE) aims to be a driving force for reforms at VET system level, ensuring high quality skills and competences that lead to quality employment and career-long opportunities, meeting the needs of an innovative, inclusive…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
    "id": "eu-ERASMUS-EDU-2027-PEX-COVE-TOP2",
    "title": "Community of practice",
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP2",
@@ -2215,7 +2085,7 @@
    "url": "https://foerdermittel-wissenswert.de/akademint/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2261,7 +2131,7 @@
    "url": "https://foerdermittel-wissenswert.de/bpb-ausschreibung-2026/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2281,7 +2151,7 @@
    "url": "https://foerdermittel-wissenswert.de/crowdfunding-und-foerdermittel/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2372,7 +2242,7 @@
    "url": "https://foerdermittel-wissenswert.de/die-traegerbeschreibung/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2392,7 +2262,7 @@
    "url": "https://blog-foerdermittel.de/2026/08/die-ersten-100-tage-im-foerdermittelmanagement-so-gelingt-der-start/",
    "source": "rss",
    "source_name": "Fördermittel-Blog",
-   "type": "training",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2414,7 +2284,7 @@
    "url": "https://foerdermittel-wissenswert.de/foerdermittel-demokratie/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2436,7 +2306,7 @@
    "url": "https://blog-foerdermittel.de/2026/09/foerdermittel-fuer-gemeinnuetzige-aktivitaeten-in-brandenburg/",
    "source": "rss",
    "source_name": "Fördermittel-Blog",
-   "type": "contest",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2464,7 +2334,7 @@
    "url": "https://foerdermittel-wissenswert.de/foerderprogramm-entwicklungspolitische-bildung/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "training",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2486,7 +2356,7 @@
    "url": "https://foerdermittel-wissenswert.de/gen-ost-jugendfonds/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "subsidy",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2510,7 +2380,7 @@
    "url": "https://foerdermittel-wissenswert.de/guetesiegel-heimatdorf/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "contest",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2532,7 +2402,7 @@
    "url": "https://foerdermittel-wissenswert.de/hob-preis/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "contest",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2552,7 +2422,7 @@
    "url": "https://foerdermittel-wissenswert.de/kulturlichter/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "contest",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2574,7 +2444,7 @@
    "url": "https://foerdermittel-wissenswert.de/passt-dein-projekt-zum-foerderer/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2594,7 +2464,7 @@
    "url": "https://foerdermittel-wissenswert.de/pfiffig-einen-foerderer-suchen/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2614,7 +2484,7 @@
    "url": "https://foerdermittel-wissenswert.de/movement-hub/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "subsidy",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2636,7 +2506,7 @@
    "url": "https://foerdermittel-wissenswert.de/prototype-fund/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2656,7 +2526,7 @@
    "url": "https://blog-foerdermittel.de/2026/10/software-fuer-das-foerdermittelmanagement-wann-sich-der-umstieg-lohnt-was-eine-loesung-koennen-muss-und-wie-sie-strukturiert-auswaehlen/",
    "source": "rss",
    "source_name": "Fördermittel-Blog",
-   "type": "training",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2679,7 +2549,7 @@
    "url": "https://foerdermittel-wissenswert.de/welcome-alliance-fund/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2699,7 +2569,7 @@
    "url": "https://foerdermittel-wissenswert.de/zusammenhalt-durch-teilhabe/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
@@ -2721,7 +2591,7 @@
    "url": "https://foerdermittel-wissenswert.de/bpb-modellprojekte/",
    "source": "rss",
    "source_name": "Fördermittel wissenswert",
-   "type": "grant",
+   "type": "news",
    "scope": [
     "DE"
    ],
