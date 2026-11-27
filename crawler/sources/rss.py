@@ -50,7 +50,7 @@ def parse_feed(raw: bytes | str, feed_cfg: dict, today: date) -> list[Opportunit
             url=link,
             source="rss",
             source_name=feed_cfg["name"],
-            type=guess_type(blob, "grant"),
+            type=guess_type(blob, "grant") if deadline else "news",  # no deadline found -> article/tip
             scope=list(feed_cfg.get("scope") or []),
             audiences=tag_audiences(blob),
             language=feed_cfg.get("language", "de"),

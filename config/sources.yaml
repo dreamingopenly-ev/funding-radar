@@ -15,7 +15,7 @@ eu_portal:
     JUST: "Justice programme"
     EUAF: "EU Anti-Fraud"
   # Cascade calls (re-granted by EU projects) are kept only if they mention one of these words
-  cascade_keywords: [youth, NGO, civil society, non-profit, migrant, refugee, culture, artist, community, social]
+  cascade_keywords: [youth, NGO, NGOs, civil society organisation, non-profit, migrant, refugee, artist, cultural organisation]
 
 rss:
   # Feeds about funding for non-profits. "scope" = where the money is for.
