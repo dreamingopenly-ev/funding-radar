@@ -150,10 +150,16 @@ NOT_FOR_NGOS = re.compile(
 )
 
 
-def tag_audiences(text: str, base: list[str] | None = None) -> list[str]:
+STRICT_TAGS = {"migrants", "latam"}  # avoid tagging on one passing mention in a long text
+
+
+def tag_audiences(text: str, base: list[str] | None = None, title: str = "") -> list[str]:
     tags = set(base or [])
     for k, rx in COMPILED_AUD.items():
-        if rx.search(text or ""):
+        if k in STRICT_TAGS:
+            if rx.search(title or "") or len(rx.findall(text or "")) >= 2:
+                tags.add(k)
+        elif rx.search(text or ""):
             tags.add(k)
     if "latam" in tags:
         tags.add("migrants") if COMPILED_AUD["migrants"].search(text or "") else None

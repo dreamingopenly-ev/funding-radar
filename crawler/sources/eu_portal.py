@@ -92,7 +92,7 @@ def parse_result(res: dict, prefixes: dict, cascade_kw: list[str], today: date) 
         source_name="EU Funding & Tenders Portal",
         type=guess_type(title, "grant"),
         scope=["EU"],
-        audiences=tag_audiences(text_blob + " " + programme),
+        audiences=tag_audiences(text_blob + " " + programme, title=title + " " + programme),
         language="en",
         programme=f"{programme} · {ident}",
         deadline=deadline,
