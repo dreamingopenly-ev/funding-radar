@@ -30,6 +30,28 @@ LAND_HINT = re.compile(r"baden|bayern|berlin|brandenburg|bremen|hamburg|hessen|m
                        r"nordrhein|rheinland|saarland|sachsen|schleswig|th(ue|ü)ringen", re.I)
 
 
+LAND_NAMES = {
+    "baden_wuerttemberg": "Baden-Württemberg", "bayern": "Bayern", "berlin": "Berlin", "brandenburg": "Brandenburg",
+    "bremen": "Bremen", "hamburg": "Hamburg", "hessen": "Hessen", "mecklenburg_vorpommern": "Mecklenburg-Vorpommern",
+    "niedersachsen": "Niedersachsen", "nordrhein_westfalen": "Nordrhein-Westfalen", "rheinland_pfalz": "Rheinland-Pfalz",
+    "saarland": "Saarland", "sachsen": "Sachsen", "sachsen_anhalt": "Sachsen-Anhalt",
+    "schleswig_holstein": "Schleswig-Holstein", "thueringen": "Thüringen",
+}
+AREA_THEMES = {  # Förderbereich -> our themes
+    "kultur_medien_sport": "culture", "umwelt_naturschutz": "sustainability",
+    "energieeffizienz_erneuerbare_energien": "sustainability", "mobilitaet": "sustainability",
+    "gesundheit_soziales": "inclusion", "frauenfoerderung": "inclusion", "aus_weiterbildung": "education",
+}
+
+
+def clean_title(t: str) -> str:
+    """The upstream export turns dashes and quotes into '?'."""
+    t = re.sub(r"(?<=\d)\?(?=\d)", "–", t)
+    t = re.sub(r" \? ", " – ", t)
+    t = re.sub(r"\?(\w[^?]*?)\?", r"„\1“", t)
+    return t.strip()
+
+
 class SkipToday(Exception):
     """Not a download day: keep last week's entries."""
 
@@ -84,8 +106,8 @@ def parse_rows(rows, cfg: dict, today: date) -> list[Opportunity]:
         if expired:
             continue
         locs = [_short(x) for x in _arr(r.get("funding_location", ""))]
-        lands = sorted({l for l in locs if LAND_HINT.search(l)})
-        title = (r.get("title") or "").strip()
+        lands = sorted({LAND_NAMES.get(l, l.replace("_", "-").title()) for l in locs if LAND_HINT.search(l)})
+        title = clean_title(r.get("title") or "")
         if not title or not r.get("url"):
             continue
         text = " ".join([title, r.get("keywords", ""), " ".join(areas)])
@@ -97,9 +119,10 @@ def parse_rows(rows, cfg: dict, today: date) -> list[Opportunity]:
             source_name=ATTRIBUTION,
             type="grant",
             scope=["DE"],
-            audiences=tag_audiences(text, title=title),
+            audiences=tag_audiences(text, base=[AREA_THEMES[a] for a in areas if a in AREA_THEMES], title=title),
+            regions=lands or ["Bundesweit"],
             language="de",
-            programme=" · ".join(filter(None, [", ".join(lands) if lands else "bundesweit", ", ".join(areas[:2])])).replace("_", " ").title(),
+            programme=", ".join(a.replace("_", " ").title() for a in areas[:2]) or None,
             deadline=deadline,
             opens=iso_date(r.get("date_of_issue")),
             rolling=deadline is None,

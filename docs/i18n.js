@@ -1,6 +1,7 @@
 // Interface translations. Opportunity titles stay in their original language.
 window.I18N = {
   en: {
+    f_region: "Region", a_education: "Education & training",
     more_db: "More databases",
     _name: "English",
     title: "Funding Radar", tagline: "Grants, subsidies and contests for NGOs, youth organisations and migrant-led collectives — updated automatically every day.",
@@ -19,6 +20,7 @@ window.I18N = {
     a_sustainability: "Sustainability", a_inclusion: "Inclusion", a_volunteering: "Volunteering", "a_civil-society": "Civil society",
   },
   es: {
+    f_region: "Región", a_education: "Educación y formación",
     more_db: "Más bases de datos",
     _name: "Español",
     title: "Funding Radar", tagline: "Subvenciones, ayudas y concursos para ONG, organizaciones juveniles y colectivos migrantes — actualizado automáticamente cada día.",
@@ -37,6 +39,7 @@ window.I18N = {
     a_sustainability: "Sostenibilidad", a_inclusion: "Inclusión", a_volunteering: "Voluntariado", "a_civil-society": "Sociedad civil",
   },
   pt: {
+    f_region: "Região", a_education: "Educação e formação",
     more_db: "Mais bases de dados",
     _name: "Português",
     title: "Funding Radar", tagline: "Subsídios, apoios e concursos para ONG, organizações de juventude e coletivos migrantes — atualizado automaticamente todos os dias.",
@@ -55,6 +58,7 @@ window.I18N = {
     a_sustainability: "Sustentabilidade", a_inclusion: "Inclusão", a_volunteering: "Voluntariado", "a_civil-society": "Sociedade civil",
   },
   de: {
+    f_region: "Bundesland / Region", a_education: "Bildung & Weiterbildung",
     more_db: "Weitere Datenbanken",
     _name: "Deutsch",
     title: "Funding Radar", tagline: "Fördermittel, Zuschüsse und Wettbewerbe für Vereine, Jugendorganisationen und migrantische Selbstorganisationen — täglich automatisch aktualisiert.",
@@ -73,6 +77,7 @@ window.I18N = {
     a_sustainability: "Nachhaltigkeit", a_inclusion: "Inklusion", a_volunteering: "Ehrenamt", "a_civil-society": "Zivilgesellschaft",
   },
   fr: {
+    f_region: "Région", a_education: "Éducation et formation",
     more_db: "Autres bases de données",
     _name: "Français",
     title: "Funding Radar", tagline: "Subventions, aides et concours pour les ONG, les organisations de jeunesse et les collectifs migrants — mis à jour automatiquement chaque jour.",
@@ -91,6 +96,7 @@ window.I18N = {
     a_sustainability: "Durabilité", a_inclusion: "Inclusion", a_volunteering: "Bénévolat", "a_civil-society": "Société civile",
   },
   it: {
+    f_region: "Regione", a_education: "Istruzione e formazione",
     more_db: "Altre banche dati",
     _name: "Italiano",
     title: "Funding Radar", tagline: "Bandi, contributi e concorsi per ONG, organizzazioni giovanili e collettivi migranti — aggiornato automaticamente ogni giorno.",

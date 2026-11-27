@@ -20,6 +20,7 @@ class Opportunity:
     type: str = "grant"              # grant | contest | subsidy | training | news
     scope: list[str] = field(default_factory=list)      # EU, DE, ES, PT, FR, IT, ...
     audiences: list[str] = field(default_factory=list)  # youth, migrants, culture, ...
+    regions: list[str] = field(default_factory=list)    # sub-national, e.g. German Länder
     language: str = "en"
     programme: str | None = None
     deadline: str | None = None      # ISO date

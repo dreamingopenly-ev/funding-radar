@@ -15,7 +15,7 @@
   const state = { view: params.get("view") || "all", items: [], generated: null };
   const T = k => (window.I18N[lang][k] ?? window.I18N.en[k] ?? k);
   const TYPES = ["grant", "contest", "subsidy", "training", "news"];
-  const THEMES = ["youth", "migrants", "latam", "culture", "democracy", "sustainability", "inclusion", "volunteering", "civil-society"];
+  const THEMES = ["youth", "migrants", "latam", "culture", "democracy", "sustainability", "inclusion", "education", "volunteering", "civil-society"];
   const VIEWS = {
     all: () => true,
     de: o => o.scope.includes("DE") || o.scope.includes("EU"),
@@ -45,6 +45,8 @@
     $("lang").value = lang;
     fillSelect($("f-type"), [["", `${T("f_type")}: ${T("any")}`], ...TYPES.map(t => [t, T("t_" + t)])], true);
     fillSelect($("f-theme"), [["", `${T("f_theme")}: ${T("any")}`], ...THEMES.map(t => [t, T("a_" + t)])], true);
+    const regs = [...new Set(state.items.flatMap(o => o.regions || []))].sort((a, b) => a === "Bundesweit" ? -1 : b === "Bundesweit" ? 1 : a.localeCompare(b));
+    fillSelect($("f-region"), [["", `${T("f_region")}: ${T("any")}`], ...regs.map(r => [r, r])], true);
     fillSelect($("f-deadline"), [["", `${T("f_deadline")}: ${T("any")}`], ["30", T("d30")], ["90", T("d90")], ["rolling", T("rolling")]], true);
     fillSelect($("f-sort"), [["deadline", T("sort_deadline")], ["new", T("sort_new")]], true);
     $("views").innerHTML = Object.keys(VIEWS).map(v =>
@@ -63,10 +65,17 @@
 
   function filtered() {
     const q = $("q").value.trim().toLowerCase();
+    const region = $("f-region").value;
     const type = $("f-type").value, theme = $("f-theme").value, dl = $("f-deadline").value, onlyNew = $("f-new").checked;
     let out = state.items.filter(VIEWS[state.view] || VIEWS.all).filter(o => {
       if (type && o.type !== type) return false;
       if (theme && !o.audiences.includes(theme)) return false;
+      if (region) {
+        const r = o.regions || [];
+        const ok = region === "Bundesweit" ? r.includes("Bundesweit")
+          : r.includes(region) || r.includes("Bundesweit") || o.scope.includes("EU");
+        if (!ok) return false;
+      }
       if (onlyNew && !isNew(o)) return false;
       if (dl === "rolling" && o.deadline) return false;
       if ((dl === "30" || dl === "90") && (!o.deadline || daysTo(o.deadline) > +dl)) return false;
@@ -83,7 +92,8 @@
       ? `<span class="pill dl ${d <= 21 ? "soon" : ""}">${esc(T("deadline"))}: ${esc(fmtDate(o.deadline))} · ${esc(T("days_left")(d))}</span>`
       : `<span class="pill dl">${esc(T("no_deadline"))}</span>`;
     const tags = o.audiences.filter(a => THEMES.includes(a)).map(a => `<span class="pill">${esc(T("a_" + a))}</span>`).join("");
-    const scope = o.scope.map(s => `${FLAGS[s] || ""} ${esc(s)}`).join(" ");
+    const scope = o.scope.map(s => `${FLAGS[s] || ""} ${esc(s)}`).join(" ") +
+      ((o.regions || []).length ? ` · ${esc(o.regions.join(", "))}` : "");
     const rep = reportHref(o);
     return `<li class="card">
       <div class="meta">${dl}${isNew(o) ? `<span class="pill new">${esc(T("isnew"))}</span>` : ""}<span class="pill">${esc(T("t_" + o.type))}</span><span>${scope}</span></div>
@@ -115,7 +125,7 @@
     const b = e.target.closest("button[data-view]"); if (!b) return;
     state.view = b.dataset.view; renderChrome(); render(); syncUrl();
   });
-  ["q", "f-type", "f-theme", "f-deadline", "f-sort", "f-new"].forEach(id => $(id).addEventListener("input", render));
+  ["q", "f-type", "f-theme", "f-region", "f-deadline", "f-sort", "f-new"].forEach(id => $(id).addEventListener("input", render));
 
   renderChrome();
   fetch("data/opportunities.json", { cache: "no-cache" })
