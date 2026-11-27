@@ -14,6 +14,8 @@ eu_portal:
     LIFE: "LIFE (environment & climate)"
     JUST: "Justice programme"
     EUAF: "EU Anti-Fraud"
+  # Topics to skip even inside kept programmes (universities only: HE capacity building, Jean Monnet, Erasmus Mundus)
+  exclude_identifier_contains: [CBHE, JMO, EMJM, EMDM]
   # Cascade calls (re-granted by EU projects) are kept only if they mention one of these words
   cascade_keywords: [youth, NGO, NGOs, civil society organisation, non-profit, migrant, refugee, artist, cultural organisation]
 

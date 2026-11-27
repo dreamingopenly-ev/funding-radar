@@ -55,11 +55,14 @@ def fetch_page(session: requests.Session, page: int, page_size: int = 100) -> di
     return r.json()
 
 
-def parse_result(res: dict, prefixes: dict, cascade_kw: list[str], today: date) -> Opportunity | None:
+def parse_result(res: dict, prefixes: dict, cascade_kw: list[str], today: date,
+                 exclude: list[str] | None = None) -> Opportunity | None:
     meta = res.get("metadata") or {}
     ident = (_first(meta, "identifier") or _first(meta, "callIdentifier") or "").strip()
     title = clean_text(_first(meta, "title") or res.get("summary") or ident)
     if not ident or not title:
+        return None
+    if any(x.upper() in ident.upper() for x in exclude or []):
         return None
 
     rtype = str(_first(meta, "type") or "")
@@ -106,6 +109,7 @@ def collect(cfg: dict, today: date | None = None) -> list[Opportunity]:
     today = today or date.today()
     prefixes = {k.upper(): v for k, v in (cfg.get("programme_prefixes") or {}).items()}
     cascade_kw = cfg.get("cascade_keywords") or []
+    exclude = cfg.get("exclude_identifier_contains") or []
     s = requests.Session()
     s.headers["User-Agent"] = USER_AGENT
     out: dict[str, Opportunity] = {}
@@ -115,7 +119,7 @@ def collect(cfg: dict, today: date | None = None) -> list[Opportunity]:
         results = data.get("results") or []
         total = total or int(data.get("totalResults") or 0)
         for res in results:
-            opp = parse_result(res, prefixes, cascade_kw, today)
+            opp = parse_result(res, prefixes, cascade_kw, today, exclude)
             if opp:
                 out.setdefault(opp.id, opp)
         log.info("eu_portal page %s: %s results (kept %s total)", page, len(results), len(out))
