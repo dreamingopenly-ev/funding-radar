@@ -6,6 +6,7 @@ config/sources.yaml (Erasmus+, ESC, CERV, Creative Europe, AMIF, ...).
 from __future__ import annotations
 
 import json
+import re
 import logging
 import time
 from datetime import date
@@ -68,7 +69,7 @@ def parse_result(res: dict, prefixes: dict, cascade_kw: list[str], today: date) 
 
     if programme is None:
         is_cascade = rtype == "8"
-        if not (is_cascade and any(k.lower() in text_blob.lower() for k in cascade_kw)):
+        if not (is_cascade and any(re.search(rf"\b{re.escape(k)}\b", text_blob, re.I) for k in cascade_kw)):
             return None
         programme = "EU cascade funding"
 
