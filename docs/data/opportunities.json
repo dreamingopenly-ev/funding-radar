@@ -1,12 +1,2236 @@
 {
- "generated_at": "2026-11-27T08:30:14+00:00",
+ "generated_at": "2026-11-27T08:32:39+00:00",
  "sources": {
   "curated": "ok (4)",
-  "eu_portal": "failed: ProxyError",
-  "rss": "failed: RuntimeError"
+  "eu_portal": "ok (89)",
+  "rss": "ok (23)"
  },
- "count": 4,
+ "count": 116,
  "items": [
+  {
+   "id": "eu-CREA-MEDIA-2027-DEVSLATE",
+   "title": "European slate development",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-DEVSLATE",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-DEVSLATE",
+   "deadline": "2026-12-01",
+   "opens": "2026-09-30",
+   "rolling": false,
+   "summary": "Scope: The objective of the European slate development support is to foster the competitiveness of European independent production companies and to increase their economic weight on the market. The aim is also to increase the capacity of audiovisual producers to develop projects…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-HORIZON-CL6-2023-GOVERNANCE-01-13",
+   "title": "Open source solutions for edge, cloud and mixed model applications to strengthen production and administrative capacities in agriculture",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45657640",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "EU cascade funding · HORIZON-CL6-2023-GOVERNANCE-01-13",
+   "deadline": "2026-12-02",
+   "opens": "2026-09-29",
+   "rolling": false,
+   "summary": "NOSTRADAMUS - Open Call #1: Funding Digital Applications for Sustainable and Efficient Agriculture",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-CULT-2025-COOP-UA-1",
+   "title": "Supporting Ukrainian artists and cultural organisations to co-create/showcase",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/47365856",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-CULT-2025-COOP-UA-1",
+   "deadline": "2026-12-04",
+   "opens": "2026-10-05",
+   "rolling": false,
+   "summary": "ZMINA:Resilience. Second call for co-creation funding of international cooperation projects",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-HORIZON-MISS-2024-OCEAN-02-01",
+   "title": "Community-led actions to restore our ocean, seas and waters",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/46939903",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [],
+   "language": "en",
+   "programme": "EU cascade funding · HORIZON-MISS-2024-OCEAN-02-01",
+   "deadline": "2026-12-11",
+   "opens": "2026-10-09",
+   "rolling": false,
+   "summary": "SoS2LearnDBS 1st Open Call for Transition Agendas (OC-TAg1-SoS2LearnDBS-2026)",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-DIGITAL-2022-SKILLS-03-SPECIALISED-EDU",
+   "title": "Specialised education programmes or modules in key capacity areas",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45114064",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy"
+   ],
+   "language": "en",
+   "programme": "EU cascade funding · DIGITAL-2022-SKILLS-03-SPECIALISED-EDU",
+   "deadline": "2026-12-14",
+   "opens": "2026-10-12",
+   "rolling": false,
+   "summary": "European Joint Master’s Programme in Digital Society, Social Innovation and Global Citizenship (DIGISOC) DIGISOC Scholarship Programme Academic Year 2026/2027 UPOL Call for Application",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-LIFE-2025-CET-EUCF",
+   "title": "European City Facility",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/48256791",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "LIFE (environment & climate) · LIFE-2025-CET-EUCF",
+   "deadline": "2026-12-21",
+   "opens": "2026-10-26",
+   "rolling": false,
+   "summary": "European City Facility – Eighth Call for Applications: Support local authorities in developing investment concepts for sustainable energy",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-CULT-2025-COOP-UA-2",
+   "title": "Fostering Ukrainians’ access to culture and cultural heritage",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/47365875",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-CULT-2025-COOP-UA-2",
+   "deadline": "2026-12-28",
+   "opens": "2026-10-26",
+   "rolling": false,
+   "summary": "Cultural Horizons: Artistic Mobility",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-HORIZON-JU-CBE-2024-CSA-01",
+   "title": "New forms of cooperation in agriculture and the forest-based sector",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/46908840",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture"
+   ],
+   "language": "en",
+   "programme": "EU cascade funding · HORIZON-JU-CBE-2024-CSA-01",
+   "deadline": "2026-12-31",
+   "opens": "2026-11-01",
+   "rolling": false,
+   "summary": "BIOECONOMY GIANTS Open Call for Scaling-up & Piloting (OC2)",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-INNOVBUSMOD",
+   "title": "Innovative tools and business models",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-INNOVBUSMOD",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-INNOVBUSMOD",
+   "deadline": "2027-01-14",
+   "opens": "2026-09-30",
+   "rolling": false,
+   "summary": "Objective: The Innovative tools and business models action is aimed at encouraging the development and/or the spread of innovative tools and business models to improve the visibility, availability, audience and diversity of European works in the digital age and/or the…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-f719a22d6f",
+   "title": "Kleinstadtlabore",
+   "url": "https://foerdermittel-wissenswert.de/kleinstadtlabore/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [],
+   "language": "de",
+   "programme": null,
+   "deadline": "2027-01-18",
+   "opens": "2026-11-24",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-SPORT-2027-LSSNCESE",
+   "title": "Large scale not-for-profit European sport event",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2027-LSSNCESE",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "volunteering",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-SPORT-2027-LSSNCESE",
+   "deadline": "2027-01-19",
+   "opens": "2026-11-24",
+   "rolling": false,
+   "summary": "Scope: This Action aims to support the organisation of sport events with a European dimension in the following fields: Volunteering in sport; Social inclusion through sport; Fight against discrimination in sport, including gender equality; Encouraging healthy lifestyle for all:…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-CROSS-2027-MEDIALITERACY",
+   "title": "NEWS - Media Literacy",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-MEDIALITERACY",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-CROSS-2027-MEDIALITERACY",
+   "deadline": "2027-01-20",
+   "opens": "2026-10-22",
+   "rolling": false,
+   "summary": "Expected Outcome: The Call for Proposals will result in: creating or scaling up cross-border collaborations that support impactful and innovative approaches to media literacy based on the latest best practices across national, cultural and linguistic borders. Those…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-FILMOVE",
+   "title": "Films on the Move",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-FILMOVE",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-FILMOVE",
+   "deadline": "2027-01-21",
+   "opens": "2026-09-30",
+   "rolling": false,
+   "summary": "Objective: The Films on the Move action shall encourage and support the wider distribution of recent non-national European films by encouraging sales agents and theatrical distributors in particular to invest in promotion and adequate distribution of non- national European…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-HORIZON-CL6-2024-GOVERNANCE-01-7",
+   "title": "Enhancing working conditions and strengthening the work force through digital and data technologies – the potential of robotics and augmented reality in agriculture",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/45658229",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture"
+   ],
+   "language": "en",
+   "programme": "EU cascade funding · HORIZON-CL6-2024-GOVERNANCE-01-7",
+   "deadline": "2027-01-25",
+   "opens": "2026-11-18",
+   "rolling": false,
+   "summary": "AGROBOOST Open Call 1 (AGROBOOST-OC1)",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2022-ECHE-CERT-FP",
+   "title": "Erasmus Charter for Higher Education",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erasmus-edu-2022-eche-cert-fp",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2022-ECHE-CERT-FP",
+   "deadline": "2027-01-26",
+   "opens": "2022-02-23",
+   "rolling": false,
+   "summary": "Erasmus Charter for Higher Education",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-CULT-2027-LIT",
+   "title": "Circulation of European literary works",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2027-LIT",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "migrants",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-CULT-2027-LIT",
+   "deadline": "2027-01-27",
+   "opens": "2026-10-21",
+   "rolling": false,
+   "summary": "Expected Impact: The action is expected to support around 40 projects, implemented either by a single entity (mono-beneficiary) or by a consortium of organisations (multi-beneficiary). Objective: This action will support projects that will translate, publish, distribute, and…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-CROSS-2027-MFP",
+   "title": "NEWS - Media Freedom Rapid Response Mechanism",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-MFP",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-CROSS-2027-MFP",
+   "deadline": "2027-01-27",
+   "opens": "2026-10-22",
+   "rolling": false,
+   "summary": "Expected Outcome: This action is expected to provide practical help to protect journalists under threat, including concrete tools such as advice and legal support as well as offering shelter and logistical assistance thereby enabling the targeted journalists to continue pursuing…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-db43a711ba",
+   "title": "dfjw Nachhaltigkeitsprojekte",
+   "url": "https://foerdermittel-wissenswert.de/dfjw-nachhaltigkeitsprojekte/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "sustainability"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": "2027-01-31",
+   "opens": "2026-11-17",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-b47ce16d80",
+   "title": "LandKulturPerlen",
+   "url": "https://foerdermittel-wissenswert.de/landkulturperlen/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "subsidy",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "culture"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": "2027-02-01",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-DEVVGIM",
+   "title": "European video games and immersive content",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-DEVVGIM",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-DEVVGIM",
+   "deadline": "2027-02-02",
+   "opens": "2026-09-30",
+   "rolling": false,
+   "summary": "Scope: The objective of the support to Video games and immersive content development is to increase the capacity of European video game producers, XR studios and audiovisual production companies to develop video games and interactive immersive experiences with the potential to…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-HEI-TCH-RSCH-CHAIR",
+   "title": "ERASMUS-JMO-2027-CHAIR",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-HEI-TCH-RSCH-CHAIR",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-HEI-TCH-RSCH-CHAIR",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Chairs are teaching posts with a specialisation in European Union studies for university professors for a duration of three years. A Jean Monnet Chair is held by only one professor, who provides the minimum of 90 teaching hours per academic year. The Chair may also have a…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-HEI-TCH-RSCH-CoE",
+   "title": "ERASMUS-JMO-2027-CoE",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-HEI-TCH-RSCH-CoE",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-HEI-TCH-RSCH-CoE",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Jean Monnet Centres of Excellence are focal points of competence and knowledge on European Union subjects. They should gather the expertise and competences of high-level experts aiming to at develop synergies between the various disciplines and resources in European…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-HEI-TCH-RSCH-MODULE",
+   "title": "ERASMUS-JMO-2027-MODULE",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-HEI-TCH-RSCH-MODULE",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-HEI-TCH-RSCH-MODULE",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Modules are short teaching programmes or courses in the field of European Union studies at offered at a higher education institution. Each Module has a minimum duration of 40 teaching hours per academic year for a duration of three years. Modules may concentrate on one…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-OFET-LEARNING-EU",
+   "title": "Jean Monnet Actions for other fields of Education and Training: Learning EU",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-OFET-LEARNING-EU",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-OFET-LEARNING-EU",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Learning EU initiatives will support schools & Vocational education and training institutions (VETs), ISCED 1 – 4, enabling them to provide specific content on EU based subjects (democracy, EU history, how the EU works, cultural diversity – among others). Activities…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-OFET-TT",
+   "title": "Jean Monnet Actions for other fields of Education and Training: Teacher Training",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-OFET-TT",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-OFET-TT",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Jean Monnet actions in other fields of education and training - Teacher trainings will support higher education institutions, teacher training institutions and other institutions supporting and enhancing the development of teacher’s knowledge and skills regarding the…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-CANADA",
+   "title": "Jean Monnet Network on external policy: EU-Canada",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-CANADA",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-CANADA",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-UA-MLD",
+   "title": "Jean Monnet Network on external policy: EU-Ukraine-Moldova",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-UA-MLD",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-UA-MLD",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-NETWORKS-HEI-EU-EDU-CUL",
+   "title": "Jean Monnet Network on internal policy: The role of education and culture for integration and cooperation in Europe",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-EU-EDU-CUL",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "migrants",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-NETWORKS-HEI-EU-EDU-CUL",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-NETWORKS-SCHOOLS",
+   "title": "Jean Monnet Networks in other fields of education and training",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-SCHOOLS",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-NETWORKS-SCHOOLS",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Expected Outcome: Networks of schools and Vocational education and training institutions (VETs), ISCED 1 – 4, and/or higher education Institutions providing Teacher Training /Education should serve the purpose of giving an international aspect to the new Jean Monnet strand and…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
+   "title": "Jean Monnet Networks on internal policy: Strategic autonomy of the European political area – digital and economic independence",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
+   "deadline": "2027-02-03",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-CROSS-2027-JOURPART-COLLABORATIONS",
+   "title": "NEWS - JOURNALISM PARTNERSHIPS - COLLABORATIONS",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-JOURPART-COLLABORATIONS",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-CROSS-2027-JOURPART-COLLABORATIONS",
+   "deadline": "2027-02-04",
+   "opens": "2026-10-22",
+   "rolling": false,
+   "summary": "Scope: The news media sectors play a crucial role in the diversity, independence and trustworthiness of the information space. Despite being essential to our democracies, these sectors are facing multiple challenges. The economic sustainability of professional journalism has…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-CROSS-2027-JOURPART-PLURALISM",
+   "title": "NEWS - JOURNALISM PARTNERSHIPS - PLURALISM",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-JOURPART-PLURALISM",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-CROSS-2027-JOURPART-PLURALISM",
+   "deadline": "2027-02-04",
+   "opens": "2026-10-22",
+   "rolling": false,
+   "summary": "Scope: The news media sectors play a crucial role in the diversity, independence and trustworthiness of the information space. Despite being essential to our democracies, these sectors are facing multiple challenges. The economic sustainability of professional journalism has…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-5a",
+   "title": "Capacity Building in Higher Education: Asia",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-5a",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-5a",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality,…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-11",
+   "title": "Capacity Building in Higher Education: Caribbean",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-11",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "latam",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-11",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality,…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-6",
+   "title": "Capacity Building in Higher Education: Central Asia",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-6",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-6",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality,…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-CROSS-REGIONAL",
+   "title": "Capacity Building in Higher Education: Cross-Regional",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-CROSS-REGIONAL",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "latam",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-CROSS-REGIONAL",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality,…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-10",
+   "title": "Capacity Building in Higher Education: Latin America",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-10",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "latam",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-10",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality,…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-7a",
+   "title": "Capacity Building in Higher Education: Middle East",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-7a",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-7a",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality,…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-2",
+   "title": "Capacity Building in Higher Education: Neighbourhood East",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-2",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-2",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the SDGs and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-8a",
+   "title": "Capacity Building in Higher Education: Pacific",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-8a",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-8a",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality,…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-3",
+   "title": "Capacity Building in Higher Education: South Mediterranean",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-3",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-3",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the SDGs and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-9",
+   "title": "Capacity Building in Higher Education: Sub-Saharan Africa",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-9",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-9",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality,…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CBHE-REGION-1",
+   "title": "Capacity Building in Higher Education: Western Balkans",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-1",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CBHE-REGION-1",
+   "deadline": "2027-02-09",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality,…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-TVONLINE-1",
+   "title": "TV and online content Animation projects",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-TVONLINE-1",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-TVONLINE-1",
+   "deadline": "2027-02-10",
+   "opens": "2026-09-30",
+   "rolling": false,
+   "summary": "Scope: The objective of the support to TV and online content is to increase the capacity of audiovisual producers to develop and produce strong projects with significant potential to circulate throughout Europe and beyond, and to facilitate European and international…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-TVONLINE-2",
+   "title": "TV and online content Documentary projects",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-TVONLINE-2",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-TVONLINE-2",
+   "deadline": "2027-02-10",
+   "opens": "2026-09-30",
+   "rolling": false,
+   "summary": "Scope: The objective of the support to TV and online content is to increase the capacity of audiovisual producers to develop and produce strong projects with significant potential to circulate throughout Europe and beyond, and to facilitate European and international…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-TVONLINE-3",
+   "title": "TV and online content Fiction projects",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-TVONLINE-3",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-TVONLINE-3",
+   "deadline": "2027-02-10",
+   "opens": "2026-09-30",
+   "rolling": false,
+   "summary": "Scope: The objective of the support to TV and online content is to increase the capacity of audiovisual producers to develop and produce strong projects with significant potential to circulate throughout Europe and beyond, and to facilitate European and international…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-EMJM-DESIGN",
+   "title": "Erasmus Mundus Design Measures",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-EMJM-DESIGN",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-EMJM-DESIGN",
+   "deadline": "2027-02-16",
+   "opens": "2026-11-19",
+   "rolling": false,
+   "summary": "Scope: To reinforce the integration and international dimension of the European Education Area, Erasmus Mundus Design Measures aim to enhance the capacities of higher education institutions in Europe to modernise and internationalise their curricula by developing new master…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-PEX-EMJM-MOB",
+   "title": "Erasmus Mundus Joint Masters",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-EMJM-MOB",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "migrants",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-PEX-EMJM-MOB",
+   "deadline": "2027-02-16",
+   "opens": "2026-11-19",
+   "rolling": false,
+   "summary": "Scope: The EMJM supports high-level integrated transnational study programmes at Master level (level 7 of the international standard classification of education ISCED 2011) delivered by an international consortium of higher education institutions (HEIs) from different countries…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2026-EUED",
+   "title": "European Degree Exploratory Action",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-EUED",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2026-EUED",
+   "deadline": "2027-02-18",
+   "opens": "2026-11-05",
+   "rolling": false,
+   "summary": "Objective: This action aims at supporting higher education institutions in the design, adaptation, and implementation of innovative and inclusive transnational joint programmes at bachelor, master, or doctoral levels, aligned with the criteria for the Joint European Degree…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-PEX-TEACH-ACA",
+   "title": "Erasmus + Teacher Academies",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-TEACH-ACA",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-PEX-TEACH-ACA",
+   "deadline": "2027-02-23",
+   "opens": "2026-12-09",
+   "rolling": false,
+   "summary": "Scope: Partnerships for excellence will support European partnerships of teacher education and training providers, schools and other stakeholders that will set up Erasmus+ Teacher Academies to develop a European and international outlook in teacher education. The Academies…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CERV-2026-CITIZENS-VALUES",
+   "title": "CERV-2026-CITIZENS-VALUES",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-VALUES",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion"
+   ],
+   "language": "en",
+   "programme": "Citizens, Equality, Rights and Values · CERV-2026-CITIZENS-VALUES",
+   "deadline": "2027-02-24",
+   "opens": "2026-10-27",
+   "rolling": false,
+   "summary": "CERV-2026-CITIZENS-VALUES",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CERV-2026-CITIZENS-REM-HISTMIGRATION",
+   "title": "Fostering remembrance of the legacy of colonialism, slavery, and migration, and their impact on contemporary multicultural European societies.",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-REM-HISTMIGRATION",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "migrants",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Citizens, Equality, Rights and Values · CERV-2026-CITIZENS-REM-HISTMIGRATION",
+   "deadline": "2027-02-24",
+   "opens": "2026-10-21",
+   "rolling": false,
+   "summary": "Objective: 4. CERV-2026-CITIZENS-REM-HISTMIGRATION - Fostering remembrance of the legacy of colonialism, slavery, and migration, and their impact on contemporary multicultural European societies. Migration, de-colonisation, enslavement, and imperialism have left a mark on global…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CERV-2026-CITIZENS-REM-TRANSITION",
+   "title": "Remembering democratic transitions, the (re-)building of democratic institutions, and strengthening society based on the rule of law, democracy, and fundamental rights.",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-REM-TRANSITION",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion"
+   ],
+   "language": "en",
+   "programme": "Citizens, Equality, Rights and Values · CERV-2026-CITIZENS-REM-TRANSITION",
+   "deadline": "2027-02-24",
+   "opens": "2026-10-21",
+   "rolling": false,
+   "summary": "Objective: 1. CERV-2026-CITIZENS-REM-TRANSITION - Remembering democratic transitions, the (re-)building of democratic institutions, and strengthening society based on the rule of law, democracy, and fundamental rights. The EU is a community of values, and all its Member States…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CERV-2026-CITIZENS-REM-GENCRIME-2",
+   "title": "Strengthening the remembrance of LGBTIQ+ victims and other victims",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-REM-GENCRIME-2",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Citizens, Equality, Rights and Values · CERV-2026-CITIZENS-REM-GENCRIME-2",
+   "deadline": "2027-02-24",
+   "opens": "2026-10-21",
+   "rolling": false,
+   "summary": "Objective: 3. Strengthening the remembrance of the Holocaust, acts of genocide, war crimes and crimes against humanity to strengthen democracy in the EU. Projects under this topic should focus on the non-Jewish victims of the Holocaust as well as other genocides, war crimes and…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CERV-2026-CITIZENS-REM-GENCRIME-1",
+   "title": "Strengthening the remembrance of Roma victims",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-REM-GENCRIME-1",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Citizens, Equality, Rights and Values · CERV-2026-CITIZENS-REM-GENCRIME-1",
+   "deadline": "2027-02-24",
+   "opens": "2026-10-21",
+   "rolling": false,
+   "summary": "Objective: 3. Strengthening the remembrance of the Holocaust, acts of genocide, war crimes and crimes against humanity to strengthen democracy in the EU. Projects under this topic should focus on the non-Jewish victims of the Holocaust as well as other genocides, war crimes and…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CERV-2026-CITIZENS-REM-HOLOCAUSTJEW",
+   "title": "Strengthening the remembrance of the Holocaust against Jewish people.",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-REM-HOLOCAUSTJEW",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "migrants"
+   ],
+   "language": "en",
+   "programme": "Citizens, Equality, Rights and Values · CERV-2026-CITIZENS-REM-HOLOCAUSTJEW",
+   "deadline": "2027-02-24",
+   "opens": "2026-10-21",
+   "rolling": false,
+   "summary": "Objective: 2. CERV-2026-CITIZENS-REM-HOLOCAUSTJEW - Strengthening the remembrance of the Holocaust against Jewish people. The Shoah is a defining legacy for the EU. Six million Jewish children, women and men were murdered, and all others were persecuted. While other groups were…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CERV-2025-DAPHNE",
+   "title": "Call for proposals to prevent and combat gender-based violence and violence against children",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/47589185",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion"
+   ],
+   "language": "en",
+   "programme": "Citizens, Equality, Rights and Values · CERV-2025-DAPHNE",
+   "deadline": "2027-03-01",
+   "opens": "2026-09-18",
+   "rolling": false,
+   "summary": "Comprehensive and inclusive support for women and girls' victims of GBV",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-AUDFILMEDU",
+   "title": "Audience Development and Film Education",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-AUDFILMEDU",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-AUDFILMEDU",
+   "deadline": "2027-03-02",
+   "opens": "2026-09-30",
+   "rolling": false,
+   "summary": "Expected Impact: Stimulate interest and increase knowledge of audiences in European films, including specific programmes on film heritage, and other audiovisual works including videogames and immersive content Strengthen pan-European cooperation for innovative audience…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-YOUTH-2027-CB-NE",
+   "title": "Capacity Building in the field of Youth in Neighborhood East",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2027-CB-NE",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-YOUTH-2027-CB-NE",
+   "deadline": "2027-03-02",
+   "opens": "2026-12-02",
+   "rolling": false,
+   "summary": "Expected Impact: The expected impact focuses on improving the capacity of youth organisations, particularly in eligible third countries not associated to the Programme in Region 2 (Eastern Partnership) to: contribute to the ‘Engage-Connect-Empower’ priorities of the EU Youth…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-YOUTH-2027-CB-SMC",
+   "title": "Capacity Building in the field of Youth in South Mediterranean Countries",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2027-CB-SMC",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-YOUTH-2027-CB-SMC",
+   "deadline": "2027-03-02",
+   "opens": "2026-12-02",
+   "rolling": false,
+   "summary": "Expected Impact: The expected impact focuses on improving the capacity of youth organisations, particularly in eligible third countries not associated to the Programme in Region 3 (Southern Mediterranean) to: contribute to the ‘Engage-Connect-Empower’ priorities of the EU Youth…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-YOUTH-2027-CB-SSA",
+   "title": "Capacity Building in the field of Youth in Sub-Saharan Africa",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2027-CB-SSA",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-YOUTH-2027-CB-SSA",
+   "deadline": "2027-03-02",
+   "opens": "2026-12-02",
+   "rolling": false,
+   "summary": "Expected Impact: The expected impact focuses on improving the capacity of youth organisations, particularly in eligible third countries not associated to the Programme in Region 9 (Sub Saharan Africa) to: contribute to the ‘Engage-Connect-Empower’ priorities of the EU Youth…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-YOUTH-2027-CB-WB",
+   "title": "Capacity Building in the field of Youth in Western Balkans",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2027-CB-WB",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-YOUTH-2027-CB-WB",
+   "deadline": "2027-03-02",
+   "opens": "2026-12-02",
+   "rolling": false,
+   "summary": "Expected Impact: The expected impact focuses on improving the capacity of youth organisations, particularly in eligible third countries not associated to the Programme in Region 1 (Western Balkans) to: contribute to the ‘Engage-Connect-Empower’ priorities of the EU Youth…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-YOUTH-2027-YOUTH-TOG",
+   "title": "European Youth Together 2027",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2027-YOUTH-TOG",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-YOUTH-2027-YOUTH-TOG",
+   "deadline": "2027-03-02",
+   "opens": "2026-12-02",
+   "rolling": false,
+   "summary": "Scope: European Youth Together European Youth Together is an Action implemented under the Key Action 3 - Support to Policy Development and Cooperation of the Erasmus+ Programme. Key Action 3 provides support to policy cooperation at European Union level, thereby contributing to…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-CODEV",
+   "title": "European co-development",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-CODEV",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-CODEV",
+   "deadline": "2027-03-02",
+   "opens": "2026-09-30",
+   "rolling": false,
+   "summary": "Scope: The objective of the support to European co-development is to support the cooperation among European production companies that are developing works with a strong international audience potential. Expected results Increased collaboration at development stage between…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-JUST-2027-JTRA",
+   "title": "Call for proposals for action grants to support transnational projects on judicial training covering civil law, criminal law or fundamental rights",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JUST-2027-JTRA",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy"
+   ],
+   "language": "en",
+   "programme": "Justice programme · JUST-2027-JTRA",
+   "deadline": "2027-03-04",
+   "opens": "2026-10-28",
+   "rolling": false,
+   "summary": "Scope: The objective of this call is to contribute to the effective and consistent application of EU law, including the Charter of Fundamental Rights of the EU, by helping to address the training needs of justice professionals in line with the new Judicial Training Strategy.…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ESC-SOLID-2027-VTHPA",
+   "title": "ESC-SOLID-2027-VTHPA",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-SOLID-2027-VTHPA",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "volunteering",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "European Solidarity Corps · ESC-SOLID-2027-VTHPA",
+   "deadline": "2027-03-04",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Objective: WHAT ARE THE OBJECTIVES? Activities by Volunteering Teams in High-Priority Areas will aim to: address clearly defined unmet societal challenges in the area of “Enhancing a culture of preparedness, and providing relief and assistance to victims of armed conflicts and…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-EUR-UNIV",
+   "title": "European Universities",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-EUR-UNIV",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-EUR-UNIV",
+   "deadline": "2027-03-04",
+   "opens": "2026-10-29",
+   "rolling": false,
+   "summary": "Objective: European Universities’ main objectives are to further develop institutionalised cooperation, making it systemic, structural and sustainable and to increase quality, performance and international competitiveness of European higher education institutions. In line with…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-SPORT-2027-SCP",
+   "title": "Cooperation Partnerships",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2027-SCP",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-SPORT-2027-SCP",
+   "deadline": "2027-03-09",
+   "opens": "2026-12-17",
+   "rolling": false,
+   "summary": "Scope: The primary goal of Cooperation Partnerships is to allow organisations to increase the quality and relevance of their activities, to develop and reinforce their networks of partners, to increase their capacity to operate jointly at transnational level, boosting…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-YOUTH-2027-PCOOP-ENGO",
+   "title": "Partnerships for Cooperation - Cooperation Partnerships in the field of Youth submitted by European NGOs 2027",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-YOUTH-2027-PCOOP-ENGO",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-YOUTH-2027-PCOOP-ENGO",
+   "deadline": "2027-03-09",
+   "opens": "2026-12-02",
+   "rolling": false,
+   "summary": "Scope: Cooperation Partnerships aim at: • increasing quality in the work, activities and practices of organisations and institutions involved , opening up to new actors, not naturally included within one sector; • building capacity of organisations to work transnationally and…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-PCOOP-ENGO",
+   "title": "Partnerships for Cooperation - Cooperation Partnerships in the field of education and training submitted by European NGOs",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PCOOP-ENGO",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-PCOOP-ENGO",
+   "deadline": "2027-03-09",
+   "opens": "2026-12-02",
+   "rolling": false,
+   "summary": "Scope: The primary goal of Cooperation Partnerships is to allow organisations to increase the quality and relevance of their activities, to develop and reinforce their networks of partners, to increase their capacity to operate jointly at transnational level, boosting…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-SPORT-2027-SSCP",
+   "title": "Small-scale Partnerships",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2027-SSCP",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "migrants",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-SPORT-2027-SSCP",
+   "deadline": "2027-03-09",
+   "opens": "2026-12-17",
+   "rolling": false,
+   "summary": "Scope: Small-scale Partnerships are designed to widen access to the programme to small-scale actors and individuals who are hard to reach in the fields of school education, adult education, vocational education and training, youth and sport. With lower grant amounts awarded to…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-HORIZON-EIT-2025-KIC-IBA-CC",
+   "title": "EITCULTURE Business Plan 2026",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/48939704",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture"
+   ],
+   "language": "en",
+   "programme": "EU cascade funding · HORIZON-EIT-2025-KIC-IBA-CC",
+   "deadline": "2027-03-15",
+   "opens": "2026-09-25",
+   "rolling": false,
+   "summary": "Open call for proposals Innovation projects",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-FILMDIST",
+   "title": "European Film Distribution",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-FILMDIST",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-FILMDIST",
+   "deadline": "2027-04-08",
+   "opens": "2026-12-03",
+   "rolling": false,
+   "summary": "Objective: Expected results: - Improvement in the trans-national distribution of recent non-national European films. - Increase in the investment in the production, acquisition, promotion, theatrical and online distribution of non-national European films. - Develop links between…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-JUST-2027-JCOO-CIVIL-EJN",
+   "title": "Call for proposals for action grants to promote judicial cooperation in civil and criminal matters. Priorities Civil Matters and EJN",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JUST-2027-JCOO-CIVIL-EJN",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [],
+   "language": "en",
+   "programme": "Justice programme · JUST-2027-JCOO-CIVIL-EJN",
+   "deadline": "2027-04-21",
+   "opens": "2026-12-09",
+   "rolling": false,
+   "summary": "Call for proposals for action grants to promote judicial cooperation in civil and criminal matters. Priorities Civil Matters and EJN",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-JUST-2027-JCOO-CRIMINAL",
+   "title": "Call for proposals for action grants to promote judicial cooperation in civil and criminal matters. Priority Criminal Matters",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JUST-2027-JCOO-CRIMINAL",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [],
+   "language": "en",
+   "programme": "Justice programme · JUST-2027-JCOO-CRIMINAL",
+   "deadline": "2027-04-21",
+   "opens": "2026-12-09",
+   "rolling": false,
+   "summary": "Call for proposals for action grants to promote judicial cooperation in civil and criminal matters. Priority Criminal Matters",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-CROSS-2027-INNOVLAB",
+   "title": "Creative Innovation Lab",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-INNOVLAB",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "sustainability"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-CROSS-2027-INNOVLAB",
+   "deadline": "2027-04-22",
+   "opens": "2026-10-22",
+   "rolling": false,
+   "summary": "Objective: WARNING: BEFORE SUBMITTING, APPLICANTS ARE STRONGLY ADVISED TO CHECK THE RELEVANCE AND ELIGIBILITY OF THEIR APPLICATION WITH THEIR DOMESTIC CREATIVE EUROPE DESK ( https://culture.ec.europa.eu/resources/creative-europe-desks ) The Creative Innovation Lab support shall…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ESC-HUMAID-2027-VOLUN",
+   "title": "Volunteering in support of humanitarian aid operations",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2027-VOLUN",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "sustainability",
+    "volunteering",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "European Solidarity Corps · ESC-HUMAID-2027-VOLUN",
+   "deadline": "2027-04-22",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Objective: The projects funded under Humanitarian Aid volunteering should: where relevant, facilitate the transition from the humanitarian response to long-term sustainable and inclusive development contribute to strengthening the capacity and resilience of vulnerable or…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CB-VET-CA",
+   "title": "Capacity building in VET in Caribbean",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-CA",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "latam",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CB-VET-CA",
+   "deadline": "2027-05-12",
+   "opens": "2027-02-09",
+   "rolling": false,
+   "summary": "Scope: Capacity Building in the Field of Vocational Education and Training (VET) This action in the field of Vocational Education and Training supports international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CB-VET-LA",
+   "title": "Capacity building in VET in Latin America",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-LA",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "latam",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CB-VET-LA",
+   "deadline": "2027-05-12",
+   "opens": "2027-02-09",
+   "rolling": false,
+   "summary": "Scope: Capacity Building in the Field of Vocational Education and Training (VET) This action in the field of Vocational Education and Training supports international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CB-VET-NE",
+   "title": "Capacity building in VET in Neighborhood East",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-NE",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "latam",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CB-VET-NE",
+   "deadline": "2027-05-12",
+   "opens": "2027-02-09",
+   "rolling": false,
+   "summary": "Scope: Capacity Building in the Field of Vocational Education and Training (VET) This action in the field of Vocational Education and Training supports international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CB-VET-SMC",
+   "title": "Capacity building in VET in South Mediterranean Countries",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-SMC",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "latam",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CB-VET-SMC",
+   "deadline": "2027-05-12",
+   "opens": "2027-02-09",
+   "rolling": false,
+   "summary": "Scope: Capacity Building in the Field of Vocational Education and Training (VET) This action in the field of Vocational Education and Training supports international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CB-VET-SSA",
+   "title": "Capacity building in VET in Sub-Saharan Africa",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-SSA",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "latam",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CB-VET-SSA",
+   "deadline": "2027-05-12",
+   "opens": "2027-02-09",
+   "rolling": false,
+   "summary": "Scope: Capacity Building in the Field of Vocational Education and Training (VET) This action in the field of Vocational Education and Training supports international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-CB-VET-WB",
+   "title": "Capacity building in VET in Western Balkans",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-WB",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "latam",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-CB-VET-WB",
+   "deadline": "2027-05-12",
+   "opens": "2027-02-09",
+   "rolling": false,
+   "summary": "Scope: Capacity Building in the Field of Vocational Education and Training (VET) This action in the field of Vocational Education and Training supports international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CREA-MEDIA-2027-FILMSALES",
+   "title": "European Film sales agent",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-FILMSALES",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy"
+   ],
+   "language": "en",
+   "programme": "Creative Europe · CREA-MEDIA-2027-FILMSALES",
+   "deadline": "2027-06-17",
+   "opens": "2027-04-29",
+   "rolling": false,
+   "summary": "Objective: Expected results: -Improvement in the trans-national distribution of recent non-national European films. -Increase in the investment in the production, acquisition, promotion, theatrical and online distribution of non-national European films. -Develop links between…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "title": "Centres of Vocational Excellence",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "deadline": "2027-09-16",
+   "opens": "2027-06-08",
+   "rolling": false,
+   "summary": "Scope: The initiative on Centres of Vocational Excellence (CoVE) aims to be a driving force for reforms at VET system level, ensuring high quality skills and competences that lead to quality employment and career-long opportunities, meeting the needs of an innovative, inclusive…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-PEX-COVE-TOP2",
+   "title": "Community of practice",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP2",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-PEX-COVE-TOP2",
+   "deadline": "2027-09-16",
+   "opens": "2027-06-08",
+   "rolling": false,
+   "summary": "Scope: A Community of Practice for the funded Erasmus+ CoVE will provide occasions for projects to come together in person and online, foster mutual learning and networking. It will contribute to transferability and dissemination of outputs and results, knowledge sharing etc. It…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ESC-HUMAID-2027-QUAL-LABEL",
+   "title": "Quality Label Humanitarian Aid Strand",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2027-QUAL-LABEL",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "volunteering",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "European Solidarity Corps · ESC-HUMAID-2027-QUAL-LABEL",
+   "deadline": "2027-09-21",
+   "opens": "2026-11-26",
+   "rolling": false,
+   "summary": "Scope: Quality Label for Humanitarian Aid Volunteering What is the Quality Label? The Quality Label for Humanitarian Aid Volunteering certifies that an organisation can carry out high-quality solidarity activities in compliance with the principles, objectives and requirements of…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-VIRT-EXCH-NE",
+   "title": "Erasmus+ Virtual Exchanges in Neighborhood East",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-VIRT-EXCH-NE",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-VIRT-EXCH-NE",
+   "deadline": "2027-10-12",
+   "opens": "2027-07-06",
+   "rolling": false,
+   "summary": "Objective: Many young people - especially in third countries - have no access to physical mobility. Hence the goal to expand the reach and scope of Erasmus+, based on the experience of the 2018-2020 virtual exchange pilot project. Erasmus+ Virtual Exchanges are online…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-VIRT-EXCH-SMC",
+   "title": "Erasmus+ Virtual Exchanges in South Mediterranean Countries",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-VIRT-EXCH-SMC",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-VIRT-EXCH-SMC",
+   "deadline": "2027-10-12",
+   "opens": "2027-07-06",
+   "rolling": false,
+   "summary": "Objective: Many young people - especially in third countries - have no access to physical mobility. Hence the goal to expand the reach and scope of Erasmus+, based on the experience of the 2018-2020 virtual exchange pilot project. Erasmus+ Virtual Exchanges are online…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-VIRT-EXCH-SSA",
+   "title": "Erasmus+ Virtual Exchanges in Sub-Saharan Africa",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-VIRT-EXCH-SSA",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-VIRT-EXCH-SSA",
+   "deadline": "2027-10-12",
+   "opens": "2027-07-06",
+   "rolling": false,
+   "summary": "Objective: Many young people - especially in third countries - have no access to physical mobility. Hence the goal to expand the reach and scope of Erasmus+, based on the experience of the 2018-2020 virtual exchange pilot project. Erasmus+ Virtual Exchanges are online…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-VIRT-EXCH-WB",
+   "title": "Erasmus+ Virtual Exchanges in Western Balkans",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-VIRT-EXCH-WB",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-VIRT-EXCH-WB",
+   "deadline": "2027-10-12",
+   "opens": "2027-07-06",
+   "rolling": false,
+   "summary": "Objective: Many young people - especially in third countries - have no access to physical mobility. Hence the goal to expand the reach and scope of Erasmus+, based on the experience of the 2018-2020 virtual exchange pilot project. Erasmus+ Virtual Exchanges are online…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-CERV-2024-CITIZENS-VALUES",
+   "title": "Call for proposals for civil society organisations active on protecting and promoting Union values: call to intermediaries (giving financial support to third parties)",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/46357639",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion"
+   ],
+   "language": "en",
+   "programme": "Citizens, Equality, Rights and Values · CERV-2024-CITIZENS-VALUES",
+   "deadline": "2028-03-31",
+   "opens": "2025-09-11",
+   "rolling": false,
+   "summary": "ReAction – Rapid Response Grants",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-9834b9bd3f",
+   "title": "AkadeMINT",
+   "url": "https://foerdermittel-wissenswert.de/akademint/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "youth"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-02",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
   {
    "id": "curated-aktion-mensch",
    "title": "Aktion Mensch – Förderung",
@@ -28,6 +2252,46 @@
    "opens": null,
    "rolling": true,
    "summary": "Funding for inclusion and social projects run by non-profits in Germany.",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-dea2157daf",
+   "title": "BpB Ausschreibung 2026",
+   "url": "https://foerdermittel-wissenswert.de/bpb-ausschreibung-2026/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-03",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-1d12b5aa3b",
+   "title": "Crowdfunding und Fördermittel",
+   "url": "https://foerdermittel-wissenswert.de/crowdfunding-und-foerdermittel/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-10-30",
+   "rolling": false,
+   "summary": "",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -99,6 +2363,377 @@
    "opens": null,
    "rolling": false,
    "summary": "Federal foundation with recurring programmes for volunteering, digitalisation and structural support.",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-9e37cbf180",
+   "title": "Die Trägerbeschreibung",
+   "url": "https://foerdermittel-wissenswert.de/die-traegerbeschreibung/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-20",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-f20e2d8461",
+   "title": "Die ersten 100 Tage im Fördermittelmanagement – so gelingt der Start",
+   "url": "https://blog-foerdermittel.de/2026/08/die-ersten-100-tage-im-foerdermittelmanagement-so-gelingt-der-start/",
+   "source": "rss",
+   "source_name": "Fördermittel-Blog",
+   "type": "training",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "culture"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-08-10",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-89538dd193",
+   "title": "Fördermittel Demokratie",
+   "url": "https://foerdermittel-wissenswert.de/foerdermittel-demokratie/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "democracy"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-17",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-16268f6268",
+   "title": "Fördermittel für gemeinnützige Aktivitäten in Brandenburg",
+   "url": "https://blog-foerdermittel.de/2026/09/foerdermittel-fuer-gemeinnuetzige-aktivitaeten-in-brandenburg/",
+   "source": "rss",
+   "source_name": "Fördermittel-Blog",
+   "type": "contest",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "inclusion",
+    "migrants",
+    "sustainability",
+    "volunteering",
+    "youth"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-09-18",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-b1ac4f9cb5",
+   "title": "Förderprogramm Entwicklungspolitische Bildung",
+   "url": "https://foerdermittel-wissenswert.de/foerderprogramm-entwicklungspolitische-bildung/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "training",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "sustainability"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-02",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-30fa173b38",
+   "title": "Gen Ost JugendFonds",
+   "url": "https://foerdermittel-wissenswert.de/gen-ost-jugendfonds/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "subsidy",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "culture",
+    "democracy",
+    "youth"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-04",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-1ccdccd41e",
+   "title": "Gütesiegel Heimatdorf",
+   "url": "https://foerdermittel-wissenswert.de/guetesiegel-heimatdorf/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "contest",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "democracy"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-03",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-1605b85f7f",
+   "title": "Hob-Preis",
+   "url": "https://foerdermittel-wissenswert.de/hob-preis/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "contest",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-02",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-4b77050d12",
+   "title": "KULTURLICHTER 2026/2027",
+   "url": "https://foerdermittel-wissenswert.de/kulturlichter/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "contest",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "culture"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-02",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-a993285714",
+   "title": "Passt dein Projekt zum Förderer?",
+   "url": "https://foerdermittel-wissenswert.de/passt-dein-projekt-zum-foerderer/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-10-20",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-94a8187980",
+   "title": "Pfiffig einen Förderer suchen",
+   "url": "https://foerdermittel-wissenswert.de/pfiffig-einen-foerderer-suchen/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-10-20",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-37898663ad",
+   "title": "Projektförderung – Movement Hub",
+   "url": "https://foerdermittel-wissenswert.de/movement-hub/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "subsidy",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "sustainability"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-02",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-b55cd9374b",
+   "title": "Prototype Fund",
+   "url": "https://foerdermittel-wissenswert.de/prototype-fund/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-03",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-edbe6420ee",
+   "title": "Software für das Fördermittelmanagement: Wann sich der Umstieg lohnt, was eine Lösung können muss und wie Sie strukturiert auswählen",
+   "url": "https://blog-foerdermittel.de/2026/10/software-fuer-das-foerdermittelmanagement-wann-sich-der-umstieg-lohnt-was-eine-loesung-koennen-muss-und-wie-sie-strukturiert-auswaehlen/",
+   "source": "rss",
+   "source_name": "Fördermittel-Blog",
+   "type": "training",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "culture",
+    "volunteering"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-10-13",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-355ee4dc18",
+   "title": "Welcome Alliance Fund",
+   "url": "https://foerdermittel-wissenswert.de/welcome-alliance-fund/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-02",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-2029efdc7b",
+   "title": "Zusammenhalt durch Teilhabe",
+   "url": "https://foerdermittel-wissenswert.de/zusammenhalt-durch-teilhabe/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "democracy"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-10-06",
+   "rolling": false,
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "rss-7511a4bac0",
+   "title": "bpb Modellprojekte",
+   "url": "https://foerdermittel-wissenswert.de/bpb-modellprojekte/",
+   "source": "rss",
+   "source_name": "Fördermittel wissenswert",
+   "type": "grant",
+   "scope": [
+    "DE"
+   ],
+   "audiences": [
+    "democracy"
+   ],
+   "language": "de",
+   "programme": null,
+   "deadline": null,
+   "opens": "2026-11-02",
+   "rolling": false,
+   "summary": "",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   }
