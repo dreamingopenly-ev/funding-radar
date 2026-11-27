@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T09:24:20+00:00",
+ "generated_at": "2026-11-27T09:25:44+00:00",
  "sources": {
   "curated": "ok (4)",
   "eu_portal": "ok (61)",
-  "foerderdatenbank": "ok (878)",
+  "foerderdatenbank": "skipped: weekly source, not a download day",
   "rss": "ok (23)"
  },
  "count": 933,
@@ -364,8 +364,7 @@
    ],
    "audiences": [
     "inclusion",
-    "volunteering",
-    "youth"
+    "volunteering"
    ],
    "regions": [],
    "language": "en",
@@ -389,8 +388,7 @@
    ],
    "audiences": [
     "inclusion",
-    "volunteering",
-    "youth"
+    "volunteering"
    ],
    "regions": [],
    "language": "en",
@@ -449,29 +447,6 @@
    "opens": "2026-09-30",
    "rolling": false,
    "summary": "Objective: The Films on the Move action shall encourage and support the wider distribution of recent non-national European films by encouraging sales agents and theatrical distributors in particular to invest in promotion and adequate distribution of non- national European…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-ERASMUS-EDU-2022-ECHE-CERT-FP",
-   "title": "Erasmus Charter for Higher Education",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erasmus-edu-2022-eche-cert-fp",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "youth"
-   ],
-   "regions": [],
-   "language": "en",
-   "programme": "Erasmus+ · ERASMUS-EDU-2022-ECHE-CERT-FP",
-   "deadline": "2027-01-26",
-   "opens": "2022-02-23",
-   "rolling": false,
-   "summary": "Erasmus Charter for Higher Education",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -858,8 +833,7 @@
     "EU"
    ],
    "audiences": [
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
@@ -1293,8 +1267,7 @@
    ],
    "audiences": [
     "culture",
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
@@ -1342,8 +1315,7 @@
    "audiences": [
     "democracy",
     "inclusion",
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
@@ -1389,8 +1361,7 @@
     "EU"
    ],
    "audiences": [
-    "culture",
-    "youth"
+    "culture"
    ],
    "regions": [],
    "language": "en",
@@ -1581,8 +1552,7 @@
    ],
    "audiences": [
     "inclusion",
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
@@ -1607,8 +1577,7 @@
    "audiences": [
     "inclusion",
     "latam",
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
@@ -1632,8 +1601,7 @@
    ],
    "audiences": [
     "inclusion",
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
@@ -1657,8 +1625,7 @@
    ],
    "audiences": [
     "inclusion",
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
@@ -1682,8 +1649,7 @@
    ],
    "audiences": [
     "inclusion",
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
@@ -1707,8 +1673,7 @@
    ],
    "audiences": [
     "inclusion",
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
@@ -1871,6 +1836,31 @@
    "last_seen": "2026-11-27"
   },
   {
+   "id": "eu-ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "title": "Centres of Vocational Excellence",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "sustainability"
+   ],
+   "regions": [],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "deadline": "2027-09-16",
+   "opens": "2027-06-08",
+   "rolling": false,
+   "summary": "Scope: The initiative on Centres of Vocational Excellence (CoVE) aims to be a driving force for reforms at VET system level, ensuring high quality skills and competences that lead to quality employment and career-long opportunities, meeting the needs of an innovative, inclusive…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
    "id": "eu-ERASMUS-EDU-2027-PEX-COVE-TOP2",
    "title": "Community of practice",
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP2",
@@ -1881,8 +1871,7 @@
     "EU"
    ],
    "audiences": [
-    "sustainability",
-    "youth"
+    "sustainability"
    ],
    "regions": [],
    "language": "en",
