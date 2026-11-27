@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T08:38:28+00:00",
+ "generated_at": "2026-11-27T08:40:16+00:00",
  "sources": {
   "curated": "ok (4)",
-  "eu_portal": "ok (79)",
+  "eu_portal": "failed: ConnectionError",
   "rss": "ok (23)"
  },
  "count": 106,
