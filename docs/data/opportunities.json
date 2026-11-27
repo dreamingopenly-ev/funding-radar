@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T08:33:55+00:00",
+ "generated_at": "2026-11-27T08:35:41+00:00",
  "sources": {
   "curated": "ok (4)",
-  "eu_portal": "ok (83)",
+  "eu_portal": "ok (84)",
   "rss": "ok (23)"
  },
- "count": 110,
+ "count": 111,
  "items": [
   {
    "id": "eu-CREA-MEDIA-2027-DEVSLATE",
@@ -163,6 +163,30 @@
    "opens": "2026-11-24",
    "rolling": false,
    "summary": "Scope: This Action aims to support the organisation of sport events with a European dimension in the following fields: Volunteering in sport; Social inclusion through sport; Fight against discrimination in sport, including gender equality; Encouraging healthy lifestyle for all:…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-SPORT-2027-SNCESE",
+   "title": "Not-for-profit European sport events",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2027-SNCESE",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "inclusion",
+    "volunteering",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-SPORT-2027-SNCESE",
+   "deadline": "2027-01-19",
+   "opens": "2026-11-24",
+   "rolling": false,
+   "summary": "Scope: This Action aims to support the organisation of sport events with a European dimension in the following fields: volunteering in sport; social inclusion through sport; fight against discrimination in sport, including gender equality; encouraging healthy lifestyles for all:…",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -552,28 +576,6 @@
    "opens": "2026-11-26",
    "rolling": false,
    "summary": "Expected Outcome: Networks of schools and Vocational education and training institutions (VETs), ISCED 1 – 4, and/or higher education Institutions providing Teacher Training /Education should serve the purpose of giving an international aspect to the new Jean Monnet strand and…",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27"
-  },
-  {
-   "id": "eu-ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
-   "title": "Jean Monnet Networks on internal policy: Strategic autonomy of the European political area – digital and economic independence",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
-   "source": "eu_portal",
-   "source_name": "EU Funding & Tenders Portal",
-   "type": "grant",
-   "scope": [
-    "EU"
-   ],
-   "audiences": [
-    "youth"
-   ],
-   "language": "en",
-   "programme": "Erasmus+ · ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
-   "deadline": "2027-02-03",
-   "opens": "2026-11-26",
-   "rolling": false,
-   "summary": "Scope: Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners…",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
@@ -1902,6 +1904,31 @@
    "opens": "2027-04-29",
    "rolling": false,
    "summary": "Objective: Expected results: -Improvement in the trans-national distribution of recent non-national European films. -Increase in the investment in the production, acquisition, promotion, theatrical and online distribution of non-national European films. -Develop links between…",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "id": "eu-ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "title": "Centres of Vocational Excellence",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "source": "eu_portal",
+   "source_name": "EU Funding & Tenders Portal",
+   "type": "grant",
+   "scope": [
+    "EU"
+   ],
+   "audiences": [
+    "democracy",
+    "inclusion",
+    "sustainability",
+    "youth"
+   ],
+   "language": "en",
+   "programme": "Erasmus+ · ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "deadline": "2027-09-16",
+   "opens": "2027-06-08",
+   "rolling": false,
+   "summary": "Scope: The initiative on Centres of Vocational Excellence (CoVE) aims to be a driving force for reforms at VET system level, ensuring high quality skills and competences that lead to quality employment and career-long opportunities, meeting the needs of an innovative, inclusive…",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27"
   },
