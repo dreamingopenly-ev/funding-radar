@@ -27,6 +27,12 @@ docs/              the website (GitHub Pages serves this folder)
 3. **Actions →** enable workflows, open *Refresh opportunities* and click **Run workflow** for the first crawl.
 4. Set `repo` (and optionally `reportEmail`) in `docs/config.js`.
 
+## Foundation calls (watchlist + local AI)
+
+`config/funders.yaml` lists funders with open calls. DOPE's PC reads their pages every day with the
+local AI and puts new calls in `review/queue.yaml`. The admin approves them, and approved calls go live.
+Setup and review steps: [monitor/README.md](monitor/README.md).
+
 ## Adding sources
 
 - **RSS feed:** add `name / url / scope / language` under `rss:` in `sources.yaml`.

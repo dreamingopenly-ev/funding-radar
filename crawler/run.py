@@ -16,12 +16,12 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
 from common import Opportunity, norm_key  # noqa: E402
-from sources import curated, eu_portal, foerderdatenbank, rss  # noqa: E402
+from sources import curated, eu_portal, foerderdatenbank, foundations, rss  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config"
 OUT = ROOT / "docs" / "data" / "opportunities.json"
-SOURCE_PRIORITY = {"curated": 0, "eu_portal": 1, "foerderdatenbank": 2, "rss": 3}  # who wins a duplicate
+SOURCE_PRIORITY = {"curated": 0, "foundations": 1, "eu_portal": 2, "foerderdatenbank": 3, "rss": 4}  # who wins a duplicate
 
 log = logging.getLogger("run")
 
@@ -55,6 +55,10 @@ def collect_all(offline: Path | None, today: date) -> tuple[list[Opportunity], d
             status[name] = f"failed: {exc.__class__.__name__}"
 
     run("curated", lambda: curated.collect(load_yaml("curated.yaml") or [], today))
+    queue_file = ROOT / "review" / "queue.yaml"
+    run("foundations", lambda: foundations.collect(
+        (yaml.safe_load(queue_file.read_text(encoding="utf-8")) or []) if queue_file.exists() else [],
+        load_yaml("funders.yaml") or [], today))
 
     eu_cfg = cfg.get("eu_portal") or {}
     if eu_cfg.get("enabled", True):

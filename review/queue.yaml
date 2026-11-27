@@ -1,0 +1,3 @@
+# Calls found by the local AI monitor. ADMIN: change "status: pending" to "approved" or "rejected".
+# Approved calls appear on the site at the next refresh. Rejected ones are never suggested again.
+[]

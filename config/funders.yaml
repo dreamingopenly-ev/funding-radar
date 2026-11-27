@@ -1,0 +1,138 @@
+# Watchlist: funders whose calls page is read every day by the local AI monitor (monitor/local_monitor.py).
+# Add one entry per page. "eligible" = where applicants must be based (EU = Europe-wide).
+# Keep it to funders whose calls are OPEN (anyone eligible can apply, not invitation-only).
+
+# --- Europe-wide ---
+- id: ecf-culture-solidarity
+  name: European Cultural Foundation – Culture of Solidarity
+  calls_url: https://culturalfoundation.eu/programmes/culture-of-solidarity-fund/
+  themes: [culture, democracy]
+  eligible: [EU]
+  language: en
+
+- id: eyf
+  name: European Youth Foundation (Council of Europe)
+  calls_url: https://www.coe.int/en/web/european-youth-foundation/calls
+  themes: [youth, democracy]
+  eligible: [EU]
+  language: en
+  note: Applicants must first register with the EYF.
+
+- id: allianz-foundation
+  name: Allianz Foundation
+  calls_url: https://allianzfoundation.org/
+  themes: [culture, democracy, sustainability]
+  eligible: [EU]
+  language: en
+  note: Annual grants programme (Europe & Mediterranean). Home page watched because each year's call gets a new URL.
+
+- id: civitates
+  name: Civitates
+  calls_url: https://civitates-eu.org/
+  themes: [democracy, civil-society]
+  eligible: [EU]
+  language: en
+  note: Calls are usually limited to a few priority countries.
+
+- id: guerrilla-foundation
+  name: Guerrilla Foundation
+  calls_url: https://guerrillafoundation.org/what-we-fund/
+  themes: [democracy, sustainability, migrants]
+  eligible: [EU]
+  language: en
+  note: Expressions of interest year-round; grassroots movements across geographic Europe.
+
+# --- Germany ---
+- id: bosch-stiftung
+  name: Robert Bosch Stiftung
+  calls_url: https://bosch-stiftung.de/en/funding
+  themes: [migrants, democracy, education]
+  eligible: [DE]
+  language: en
+  note: Funds only through open calls.
+
+- id: stiftung-evz
+  name: Stiftung EVZ (Erinnerung, Verantwortung und Zukunft)
+  calls_url: https://www.stiftung-evz.de/en/what-we-support/
+  themes: [democracy, inclusion, youth]
+  eligible: [DE]
+  language: en
+
+- id: amadeu-antonio
+  name: Amadeu Antonio Stiftung
+  calls_url: https://www.amadeu-antonio-stiftung.de/en/funding
+  themes: [democracy, inclusion, migrants]
+  eligible: [DE]
+  language: en
+  note: Small grants (typically up to 2,500 €) for local initiatives against racism and the far right.
+
+- id: postcode-lotterie
+  name: Deutsche Postcode Lotterie
+  calls_url: https://www.postcode-lotterie.de/projekte/interessensbekundung
+  themes: [inclusion, sustainability, democracy]
+  eligible: [DE]
+  language: de
+
+- id: fonds-soziokultur-apf
+  name: Fonds Soziokultur – Allgemeine Projektförderung
+  calls_url: https://www.fonds-soziokultur.de/foerderung/foerderprogramme/allgemeine-projektfoerderung.html
+  themes: [culture, inclusion]
+  eligible: [DE]
+  language: de
+
+- id: fonds-soziokultur-u25
+  name: Fonds Soziokultur – U25 Junge Kulturinitiativen
+  calls_url: https://www.fonds-soziokultur.de/foerderung/foerderprogramme/u25-richtung-junge-kulturinitiativen.html
+  themes: [culture, youth]
+  eligible: [DE]
+  language: de
+
+- id: nrw-mso
+  name: NRW – Förderung von Migrantenselbstorganisationen
+  calls_url: https://www.mkjfgfi.nrw/migrantenselbstorganisationen
+  themes: [migrants]
+  eligible: [DE]
+  language: de
+
+- id: berlin-partizipation
+  name: Berlin – Projektförderung Partizipation, Integration und Migration
+  calls_url: https://www.berlin.de/lb/intmig/projektfoerderung/partizipation/
+  themes: [migrants, democracy]
+  eligible: [DE]
+  language: de
+
+- id: berlin-pankow-mso
+  name: Berlin-Pankow – Integrationsfonds für Migrant:innenselbstorganisationen
+  calls_url: https://www.berlin.de/ba-pankow/integrationsfonds
+  themes: [migrants]
+  eligible: [DE]
+  language: de
+
+- id: berlin-lichtenberg-mso
+  name: Berlin-Lichtenberg – MSO-Fonds
+  calls_url: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/beauftragte/integration/artikel.1413264.php
+  themes: [migrants]
+  eligible: [DE]
+  language: de
+
+- id: berlin-steglitz-mso
+  name: Berlin-Steglitz-Zehlendorf – Integrationsfonds
+  calls_url: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/beauftragte/integration/artikel.1493287.php
+  themes: [migrants]
+  eligible: [DE]
+  language: de
+
+# --- France / Portugal ---
+- id: fondation-de-france
+  name: Fondation de France
+  calls_url: https://www.fondationdefrance.org/fr/appels-a-projets
+  themes: [inclusion, sustainability, democracy]
+  eligible: [FR]
+  language: fr
+
+- id: gulbenkian-civil-society
+  name: Fundação Calouste Gulbenkian – Civil Society Fund
+  calls_url: https://gulbenkian.pt/civilsocietyfund/
+  themes: [democracy, civil-society]
+  eligible: [PT]
+  language: pt
