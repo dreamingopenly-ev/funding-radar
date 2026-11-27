@@ -16,12 +16,12 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
 from common import Opportunity, norm_key  # noqa: E402
-from sources import curated, eu_portal, rss  # noqa: E402
+from sources import curated, eu_portal, foerderdatenbank, rss  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config"
 OUT = ROOT / "docs" / "data" / "opportunities.json"
-SOURCE_PRIORITY = {"curated": 0, "eu_portal": 1, "rss": 2}  # who wins a duplicate
+SOURCE_PRIORITY = {"curated": 0, "eu_portal": 1, "foerderdatenbank": 2, "rss": 3}  # who wins a duplicate
 
 log = logging.getLogger("run")
 
@@ -48,6 +48,8 @@ def collect_all(offline: Path | None, today: date) -> tuple[list[Opportunity], d
             got = fn()
             items.extend(got)
             status[name] = f"ok ({len(got)})"
+        except foerderdatenbank.SkipToday as exc:
+            status[name] = f"skipped: {exc}"
         except Exception as exc:
             log.exception("source %s failed", name)
             status[name] = f"failed: {exc.__class__.__name__}"
@@ -67,6 +69,11 @@ def collect_all(offline: Path | None, today: date) -> tuple[list[Opportunity], d
         else:
             run("eu_portal", lambda: eu_portal.collect(eu_cfg, today))
 
+    fdb_cfg = cfg.get("foerderdatenbank") or {}
+    if fdb_cfg.get("enabled", False) and not offline:
+        have_fdb = any(o.get("source") == "foerderdatenbank" for o in load_previous().values())
+        run("foerderdatenbank", lambda: foerderdatenbank.collect(fdb_cfg, today, force=not have_fdb))
+
     feeds = cfg.get("rss") or []
     if offline:
         def rss_offline():
@@ -85,7 +92,7 @@ def collect_all(offline: Path | None, today: date) -> tuple[list[Opportunity], d
 def merge(items: list[Opportunity], previous: dict[str, dict], status: dict[str, str],
           removed: set[str], today: date) -> list[dict]:
     now = today.isoformat()
-    failed_sources = {k for k, v in status.items() if v.startswith("failed")}
+    failed_sources = {k for k, v in status.items() if v.startswith(("failed", "skipped"))}
 
     # 1. keep last known items of sources that failed this run (a broken feed shouldn't empty the site)
     current = {o.id: o.to_dict() for o in items}

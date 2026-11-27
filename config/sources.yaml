@@ -19,6 +19,15 @@ eu_portal:
   # Cascade calls (re-granted by EU projects) are kept only if they mention one of these words
   cascade_keywords: [youth, NGO, NGOs, civil society organisation, non-profit, migrant, refugee, artist, cultural organisation]
 
+foerderdatenbank:
+  # Förderdatenbank des Bundes via CorrelAid's weekly open copy (CC BY-ND 4.0). Downloaded on Mondays only.
+  enabled: true
+  download_weekday: 0            # 0 = Monday
+  eligible_contains: [verband, verein]   # "Verband/Vereinigung"
+  funding_type_contains: [zuschuss]      # grants only (no loans, guarantees)
+  # Drop programmes whose ONLY funding areas match this (business, farming, housing…). Tune after the first run.
+  exclude_area_regex: "landwirtschaft|aussenwirtschaft|unternehmensfinanzierung|existenzgruendung|wohnungsbau|infrastruktur|forschung"
+
 rss:
   # Feeds about funding for non-profits. "scope" = where the money is for.
   - name: Fördermittel-Blog
