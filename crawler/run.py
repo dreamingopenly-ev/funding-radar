@@ -71,7 +71,8 @@ def collect_all(offline: Path | None, today: date) -> tuple[list[Opportunity], d
 
     fdb_cfg = cfg.get("foerderdatenbank") or {}
     if fdb_cfg.get("enabled", False) and not offline:
-        have_fdb = any(o.get("source") == "foerderdatenbank" for o in load_previous().values())
+        prev_fdb = [o for o in load_previous().values() if o.get("source") == "foerderdatenbank"]
+        have_fdb = bool(prev_fdb) and all("regions" in o for o in prev_fdb)  # re-download after schema changes
         run("foerderdatenbank", lambda: foerderdatenbank.collect(fdb_cfg, today, force=not have_fdb))
 
     feeds = cfg.get("rss") or []
