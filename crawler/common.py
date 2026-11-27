@@ -125,7 +125,7 @@ def iso_date(value) -> str | None:
 
 # ---------- tagging ----------
 AUDIENCE_RULES = {
-    "migrants": r"migra|refugee|geflüchte|flüchtling|asyl|asylum|integration|integra(?:ción|ção|zione)|"
+    "migrants": r"migra|refugee|geflüchte|flüchtling|asyl|asylum|integration of (?:migrants|refugees|third)|integrationsarbeit|integrationsprojekt|"
                 r"diaspora|newcomer|third[- ]country national|amif|réfugi|rifugiat|refugiad",
     "latam": r"latin america|lateinamerika|latinoam[eé]rica|am[eé]rica latina|latino",
     "youth": r"youth|jugend|juvent|jóvenes|jovens|giovan|jeunes|young people|junge menschen|erasmus|solidarity corps",
